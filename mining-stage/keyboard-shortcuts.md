@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Keyboard Shortcuts
 
 {% hint style="info" %}

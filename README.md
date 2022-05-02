@@ -1,13 +1,15 @@
-# MemoryLab Intro
+---
+cover: >-
+  https://images.unsplash.com/photo-1649013954111-02ac93c6d7fb?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTE1MTUwODg&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
+# 🌎 Overview
 
 
 
 {% hint style="success" %}
-**Baby Metaverse is a crypto world for users to trade, earn, and play. It's the best choice for newborn projects on BNB Chain to get support, including AMM, NFT, and GameFi.**
-
-****
-
-**Baby is the future.**&#x20;
+**Memory Metaverse is a crypto world for users to trade, earn, and play. It's the best choice for newborn projects on multi Chain to get support, including AMM, NFT, and GameFi.**
 
 **Let's go beyond the DEX and build the MetaFi.**
 {% endhint %}

@@ -1,29 +1,31 @@
 # Table of contents
 
-* [MemoryLab Intro](README.md)
+* [🌎 Overview](README.md)
 
-## Guides
+## Introduction
 
-* [💳 Memory Wallet](guides/memory-wallet.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [💳 Memory Wallet](introduction/memory-wallet.md)
+* [⛓ Public Chain](introduction/public-chain.md)
 
-## Fundamentals
+## Function Module
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [🥸 Tier Structure](function-module/tier-structure.md)
+* [📈 Transaction Module](function-module/transaction-module.md)
+* [🔠 Diversified Application](function-module/diversified-application.md)
+* [👾 NFT](function-module/nft.md)
+* [🎮 GAMEFI](function-module/gamefi.md)
 
-## Use Cases
+## Token Economics
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [🌐 Overview](token-economics/overview.md)
+* [💹 Economic Model](token-economics/economic-model/README.md)
+  * [Figma Integration](token-economics/economic-model/figma-integration.md)
+* [📩 Dev.Committee](token-economics/dev.committee/README.md)
+  * [GitHub Integration](token-economics/dev.committee/github-integration.md)
+* [🎢 Distribution Scheme](token-economics/distribution-scheme/README.md)
+  * [Intercom Integration](token-economics/distribution-scheme/intercom-integration.md)
+* [😁 Extra](token-economics/extra.md)
 
-## Extras
+## Mining Stage
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Keyboard Shortcuts](mining-stage/keyboard-shortcuts.md)
