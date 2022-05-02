@@ -1,10 +1,10 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [MemoryLab Intro](README.md)
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [💳 Memory Wallet](guides/memory-wallet.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
