@@ -27,10 +27,7 @@
   * [Intercom Integration](token-economics/distribution-scheme/intercom-integration.md)
 * [😁 Extra](token-economics/extra.md)
 
-## Mining Stage
+## Introduction
 
-* [⚾ Short cut](mining-stage/short-cut.md)
-
-## 🏩 Governance
-
-* [Governance](governance/governance.md)
+* [⚾ Short cut](introduction-1/short-cut.md)
+* [🕊 Governance](introduction-1/governance.md)

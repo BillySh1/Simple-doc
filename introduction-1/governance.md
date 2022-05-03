@@ -1,4 +1,4 @@
-# Governance
+# 🕊 Governance
 
 {% hint style="success" %}
 Memory Swap works to promote the decentralized governance and create an open-source ecosystem where the community has full autonomy. The decentralized governance is divided into three stages.
