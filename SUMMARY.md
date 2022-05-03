@@ -29,4 +29,8 @@
 
 ## Mining Stage
 
-* [Keyboard Shortcuts](mining-stage/keyboard-shortcuts.md)
+* [⚾ Short cut](mining-stage/short-cut.md)
+
+## 🏩 Governance
+
+* [Governance](governance/governance.md)
