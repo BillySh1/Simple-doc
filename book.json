@@ -1,0 +1,13 @@
+{
+    "title": "Hello world",  
+    "language":"zh",         
+    "plugins": [             
+        "code",               
+        "search"            
+    ],
+    "pluginsConfig": {        
+        "code": {             
+            "copyButtons": true
+        }
+    }
+}
