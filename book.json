@@ -1,6 +1,6 @@
 {
     "title": "Hello world",  
-    "language":"zh",         
+    "language":"en",         
     "plugins": [             
         "code",               
         "search"            
