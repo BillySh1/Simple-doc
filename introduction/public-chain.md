@@ -1,6 +1,8 @@
 ---
 description: Core technology of Memory Chain (Transaction Module)
-coverY: 0
+cover: >-
+  https://images.unsplash.com/photo-1638913658211-c999de7fe786?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MXwxfHNlYXJjaHw4fHx0cmFkZXxlbnwwfHx8fDE2NTI5NTA1MzE&ixlib=rb-1.2.1&q=80
+coverY: 298.087929656275
 ---
 
 # 💳 交易板块

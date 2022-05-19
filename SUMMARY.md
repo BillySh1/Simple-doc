@@ -8,8 +8,8 @@
 * [🏗 层结构](introduction/memory-wallet.md)
 * [💳 交易板块](introduction/public-chain.md)
 * [🔠 多样化应用板块](gong-neng-mo-kuai/duo-yang-hua-ying-yong-ban-kuai.md)
-* [🌈 NFT交易](gong-neng-mo-kuai/nft-jiao-yi.md)
 * [🎮 GAMEFI](gong-neng-mo-kuai/gamefi.md)
+* [🌈 NFT交易](gong-neng-mo-kuai/nft-jiao-yi.md)
 
 ## 代币经济
 
