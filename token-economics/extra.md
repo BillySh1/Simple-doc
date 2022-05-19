@@ -1,2 +1,2 @@
-# 😁 Extra
+# Extra
 

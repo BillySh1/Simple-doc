@@ -9,14 +9,15 @@
 * [💳 交易板块](introduction/public-chain.md)
 * [☁ 多样化应用板块](gong-neng-mo-kuai/duo-yang-hua-ying-yong-ban-kuai.md)
 * [🤖 NFT交易](gong-neng-mo-kuai/nft-jiao-yi.md)
+* [🎮 GAMEFI](gong-neng-mo-kuai/gamefi.md)
 
-## Function Module
+## 代币经济
 
-* [Tier Structure](function-module/tier-structure.md)
-* [Transaction Module](function-module/transaction-module.md)
-* [Diversified Application](function-module/diversified-application.md)
-* [👾 NFT](function-module/nft.md)
-* [GAMEFI](function-module/gamefi.md)
+* [综述](dai-bi-jing-ji/tier-structure.md)
+* [Transaction Module](dai-bi-jing-ji/transaction-module.md)
+* [Diversified Application](dai-bi-jing-ji/diversified-application.md)
+* [👾 NFT](dai-bi-jing-ji/nft.md)
+* [GAMEFI](dai-bi-jing-ji/gamefi.md)
 
 ## Token Economics
 
