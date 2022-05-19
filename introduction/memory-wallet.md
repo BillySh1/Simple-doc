@@ -1,17 +1,28 @@
-# 💳 Memory Wallet
+---
+description: Tier Structure
+---
 
-{% hint style="info" %}
-Memory wallet makes all transactions recorded in an open, transparent and tamper-resistant manner. Transactions can be checked on the block chain.
+# 🪜 层结构
+
+
+
+{% hint style="success" %}
+**Memory Swap**平台采用四层结构，保证流动性市场信息的完整性和对称性。 因此，消费者拥有安全高效的交易环境。
 {% endhint %}
 
-### Speed
+#### 网络层
 
-#### Transfer between the same kind of wallet can be made in seconds through the acceleration technology channel.Creating a project
+作为**Memory Swap**跨链协议的基础，我们将使用KCC等优质公链作为部署。 市场流动性
 
-#### With multi-chain support, memory Chain can achieve the interflow of assets, enabling assets to cross chains efficiently.
+#### 市场流动性
 
-### Support
+通过 **Memory Swap** 聚合不同的流动性来源，使平台能够为用户识别和推荐最佳交易所报价。
 
-#### Open source wallet means the completely decentralization. The third-party applications in the wallet should have the MMC token.
+#### 结算层
 
-#### Transaction verification includes a three-step verification and the password input, after which users shall make a final confirmation, so as to avoid mistakes to the utmost extent.
+基于私钥签名授权，通过智能合约完成交易结算。
+
+#### 应用层
+
+为开发者提供完整的服务API以集成到不同的应用中，为 用户提供便捷、人性化的操作平台。
+

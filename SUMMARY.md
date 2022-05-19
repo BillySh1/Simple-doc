@@ -34,4 +34,4 @@
   * [战力强化篇](gamefi/short-cut/zhan-li-qiang-hua-pian.md)
   * [功能篇](gamefi/short-cut/gong-neng-pian.md)
   * [图鉴篇](gamefi/short-cut/tu-jian-pian.md)
-  * [群英会战](gamefi/short-cut/qun-ying-hui-zhan.md)
+  * [群英会战篇](gamefi/short-cut/qun-ying-hui-zhan-pian.md)

@@ -1,10 +1,52 @@
-# 🥸 Tier Structure
+# 综述
 
 {% hint style="info" %}
-Memory Swap has applied the four-tier structure to ensure the integrity and symmetry of the market. information liquidity. Therefore, consumers have a safe and efficient trading environment.
+**MEMORY SWAP TOKEN** 是**MEMORY SWAP** 发行的应用代币。是推动MEMORY LABS发展的重要通证。基于 MEMORY 的经济模型，鼓励所有参与者和开发者通过代币的社区治理投资于整体生态网络的维护。
 {% endhint %}
 
-* [x] **Network tier**：As the foundation of the Memory Swap cross-chain protocol, we’ll deploy the high quality public chain like BSC.
-* [x] **Market liquidity**：Through the aggregation of liquidity from different sources on Memory Swap, the platform is able to recognize and recommend the best exchange quote for users.
-* [x] **Settlement tier**：Transaction settlement is completed through a smart contract based on the private key signature authorization.
-* [x] **Application tier**：It provides developers with full services. API aggregated in various applications offers users a convenient and humanized operation platform.
+### 经济模型
+
+在**Memory Swap**的经济模型中，赚**MDAO**的方式有2种。首先，用户可以通过早期参与产品测试和社区贡献获得空投。其次，他们可以通过**Memory Swap**获得挖矿奖励。
+
+另一方面，**Memory Swap** 的所有交易费用将定期用于在公开市场回购代币，并按比例分配给代币权益持有者和发展委员会。
+
+### 发展委员会
+
+发展委员会主要负责推动项目的发展和社区建设。在早期阶段，它将由**Memory Labs**、社区贡献者和获得多数票的代表组成。后期完全由社区选举产生。
+
+### 分配机制
+
+1. IDO，15%
+2. (Farm，Pools）挖矿，50%
+3. 常规借贷，NFT借贷，5%
+4. NFT生态，10%
+5. 机枪池，5%
+6. 归零币兑换，3%
+7. Swap推广大使，0.5%
+8. 社区激励推广，1.5%
+9. 董事会，5%
+10. 生态预留，5%
+
+#### 融资基金将会分别留向：流动池  护盘池  抽奖池&#x20;
+
+#### 发行总量：14亿枚
+
+
+
+### **独特的Against机制**
+
+*   **买入：**\
+    ****40% 抽奖池
+
+    60% 护盘池
+*   **卖出：**\
+    30%抽奖池
+
+    70%护盘池
+* 卖出时燃烧支付代币的15％
+*   **自动护盘买入：**
+
+    当代币价格低于初始流动性价格的20%，自动分批买入，每次将护盘池中一半的储值买入，护盘获得的代币存放在合约地址内，将用于生态预留。
+*   **时空彩蛋：**
+
+    交易笔数2022笔后，抽取代币持仓在5万以上的5名幸运用户分享抽奖池5%
