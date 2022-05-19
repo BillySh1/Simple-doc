@@ -29,5 +29,6 @@
 
 ## GAMEFI
 
-* [富甲三国](gamefi/short-cut/README.md)
+* [富甲三国](introduction-1/short-cut.md)
   * [卡牌机制篇](gamefi/short-cut/ka-pai-ji-zhi-pian.md)
+  * [战力强化篇](gamefi/short-cut/zhan-li-qiang-hua-pian.md)
