@@ -1,12 +1,12 @@
 # Table of contents
 
 * [🌏 总览](README.md)
-* [📈 Memory发展路线](route-map.md)
+* [Memory发展路线](route-map.md)
 
-## Introduction
+## 功能模块
 
-* [Memory Wallet](introduction/memory-wallet.md)
-* [⛓ Public Chain](introduction/public-chain.md)
+* [🪜 层结构](gong-neng-mo-kuai/memory-wallet.md)
+* [💳 交易板块](gong-neng-mo-kuai/public-chain.md)
 
 ## Function Module
 
@@ -29,5 +29,5 @@
 
 ## Introduction
 
-* [Short cut](introduction-1/short-cut.md)
-* [Governance](introduction-1/governance.md)
+* [Short cut](introduction/short-cut.md)
+* [Governance](introduction/governance.md)

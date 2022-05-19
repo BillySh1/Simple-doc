@@ -2,7 +2,7 @@
 description: roadMemory
 ---
 
-# 📈 Memory发展路线
+# Memory发展路线
 
 ### 2022 Q1
 
