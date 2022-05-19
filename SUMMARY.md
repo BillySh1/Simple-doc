@@ -5,8 +5,9 @@
 
 ## 功能模块
 
-* [🪜 层结构](gong-neng-mo-kuai/memory-wallet.md)
-* [💳 交易板块](gong-neng-mo-kuai/public-chain.md)
+* [🪜 层结构](introduction/memory-wallet.md)
+* [💳 交易板块](introduction/public-chain.md)
+* [☁ 多样化应用板块](gong-neng-mo-kuai/duo-yang-hua-ying-yong-ban-kuai.md)
 
 ## Function Module
 
@@ -29,5 +30,5 @@
 
 ## Introduction
 
-* [Short cut](introduction/short-cut.md)
-* [Governance](introduction/governance.md)
+* [Short cut](introduction-1/short-cut.md)
+* [Governance](introduction-1/governance.md)
