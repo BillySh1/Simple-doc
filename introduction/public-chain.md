@@ -1,33 +1,12 @@
 ---
-description: Core technology of Memory Chain (Transaction Module)
+description: Core technology of Memory Chain
 ---
 
-# 💳 交易板块
+# ⛓ Public Chain
 
-
-
-*   **众筹建池（IDO：**
-
-    众筹建池是一种平等机会的分配代币和启动流动性市场的方式。
-
-    受证券市场上常见的打新机制的启发平等机会确保了没有科学家抢跑和机器人的干扰。
-
-    在流动性保护期提供的额外安全保障下，用户可以安心参与流动性发行活动，切实地支持自己喜欢的项目。
-*   **智能聚合交易：**
-
-    Memory基于KCC智能链构建，可以实现同一网络上两个任意代币之间的交易。
-
-    它能智能地从流动性来源中找到最佳的订单路由，为交易者提供最佳的价格和最低的滑点。
-
-    后期在MemorySwap上执行交易的用户还可以选择参与交易挖矿，获得MDAO代币奖励。
-* **主动做市商算法:**\
-  主动做市商算法 MAMM是一种新的链上做市模型。它有别于非恒定函数做市商模式，将交易对资产关系拆离开来。可以灵活的设置资产配比、曲线斜率等参数。同时也可以引入预言机来指导价格或链上由市场进行价格发现。它将更多资金聚集在市价附近，提供充足的流动性。
-*   **挖矿：**
-
-    除了上述的交易挖矿和传统的流动性挖矿外，池子创建者和流动性提供者还可以通过参与联合挖矿，让Memory平台用户随时接触到有趋势、有前景、愿意与Memory合作的项目。通过审核的项目可以在Memory上创建流动性池，这些池子的流动性提供者能获得MDAO代币奖励。
-*   **做市：**
-
-    Memory通过Memory公有池和Memory私有池，让流动性提供者可以灵活地创建和管理自己的做市策略。
-
-> 这是一个全程完全无需许可、非托管的过程，用户有权配置自己池子的各种参数，以建立具有适合其需求的理想定价曲线的流动性市场 - MR.C
+* With a high throughput capacity and fast confirmation, the operating TPS is up to 25000+, and transfers can be conformed within 3-5s
+* With the underlying smart contract technology, it achieves the connectivity among chains and currencies in a very low threshold.
+* Equipped with the smart contract, payment and settlement platforms, gamefi, and metaverse,it creates a link between the virtual and realistic word, providing an independent developing environment.
+* With the fragmented node system, the fragmented node through the intelligent equipment is effective on the public chain, hence users don’t need to purchase the physical miner.
+* The era of MDAO begins. Real-time voting is implemented in the Dapp operating on the Memory Chain.
 

@@ -32,3 +32,5 @@
 * [富甲三国](introduction-1/short-cut.md)
   * [卡牌机制篇](gamefi/short-cut/ka-pai-ji-zhi-pian.md)
   * [战力强化篇](gamefi/short-cut/zhan-li-qiang-hua-pian.md)
+  * [功能篇](gamefi/short-cut/gong-neng-pian.md)
+  * [图鉴篇](gamefi/short-cut/tu-jian-pian.md)
