@@ -1,5 +1,5 @@
 ---
-description: roadMemory
+description: roadMap
 ---
 
 # 🔜 Memory发展路线
