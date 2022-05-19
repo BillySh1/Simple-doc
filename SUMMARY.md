@@ -22,7 +22,7 @@
 * [🌐 SWAP基础组件](token-economics/overview.md)
 * [💹 NFT 创作交易平台](token-economics/economic-model/README.md)
   * [Figma Integration](token-economics/economic-model/figma-integration.md)
-* [Dev.Committee](token-economics/dev.committee/README.md)
+* [时间锁](token-economics/dev.committee/README.md)
   * [GitHub Integration](token-economics/dev.committee/github-integration.md)
 * [🎢 Distribution Scheme](token-economics/distribution-scheme/README.md)
   * [Intercom Integration](token-economics/distribution-scheme/intercom-integration.md)
