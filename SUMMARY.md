@@ -13,11 +13,11 @@
 
 ## 代币经济
 
-* [综述](dai-bi-jing-ji/tier-structure.md)
-* [Transaction Module](dai-bi-jing-ji/transaction-module.md)
-* [Diversified Application](dai-bi-jing-ji/diversified-application.md)
-* [👾 NFT](dai-bi-jing-ji/nft.md)
-* [GAMEFI](dai-bi-jing-ji/gamefi.md)
+* [综述](function-module/tier-structure.md)
+* [挖矿时代](function-module/transaction-module.md)
+* [治理](function-module/diversified-application.md)
+* [👾 NFT](function-module/nft.md)
+* [GAMEFI](function-module/gamefi.md)
 
 ## Token Economics
 
