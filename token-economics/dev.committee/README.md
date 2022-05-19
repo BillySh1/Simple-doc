@@ -1,5 +1,9 @@
-# 📩 Dev.Committee
+---
+description: Time Lock
+---
+
+# 🕐 时间锁
 
 {% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
+为了用户更加信任项目方和减少项目方抛售代币的可能性，**MemorySwap**为各个项目方提供了时间锁合约，项目方可以自证清白锁定自己的代币，用户可以清清楚楚的了解代币的发行总量，锁仓总量,锁定时间等，最大程度保护用户的资产。
 {% endhint %}
