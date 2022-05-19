@@ -1,4 +1,10 @@
+---
+description: Tier Structure
+---
+
 # 🪜 层结构
+
+
 
 {% hint style="success" %}
 **Memory Swap**平台采用四层结构，保证流动性市场信息的完整性和对称性。 因此，消费者拥有安全高效的交易环境。

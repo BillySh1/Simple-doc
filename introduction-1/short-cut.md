@@ -2,10 +2,10 @@
 coverY: 0
 ---
 
-# Short cut
+# ⚾ Short cut
 
 {% hint style="info" %}
-#### **Age of Creation 140 million pcs in total**
+### **Age of Creation 140 million pcs in total**
 {% endhint %}
 
 1.  **Liquidity mining**
@@ -18,7 +18,7 @@ coverY: 0
     Pledge MMC, BNB, USDT, BSUD, or other cooperative projects tokens for MMC rewards.
 
 {% hint style="info" %}
-#### **Development Era: Multi-chain Deployment**
+### **Development Era: Multi-chain Deployment**
 {% endhint %}
 
 1. Support ETH, OEC, HECO, Polygon, HOO, etc.

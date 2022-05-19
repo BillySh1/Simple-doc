@@ -1,8 +1,10 @@
 ---
-description: Core technology of Memory Chain
+description: Core technology of Memory Chain (Transaction Module)
 ---
 
 # 💳 交易板块
+
+
 
 *   **众筹建池（IDO：**
 

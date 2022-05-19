@@ -1,4 +1,4 @@
-# Tier Structure
+# 🥸 Tier Structure
 
 {% hint style="info" %}
 Memory Swap has applied the four-tier structure to ensure the integrity and symmetry of the market. information liquidity. Therefore, consumers have a safe and efficient trading environment.

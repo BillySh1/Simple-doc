@@ -1,4 +1,4 @@
-# Transaction Module
+# 📈 Transaction Module
 
 ### **Initial DeFi Offering (IDO)：**
 
@@ -21,7 +21,7 @@ _**Built based on the BSC**_, Memory can realize the transactions between any to
 ### **Mining：**
 
 {% hint style="info" %}
-_**Besides**_\*\* \*\* the above-mentioned transaction mining and traditional liquidity mining, pool creators and liquidity providers can also participate in the joint mining, letting Memory users at any time access the projects that are trending, promising, and willing to cooperate with Memory. Projects that pass the audit can create liquidity pools on Memory, and the liquidity providers of these pools can be rewarded with Memory tokens.
+_**Besides**_** ** the above-mentioned transaction mining and traditional liquidity mining, pool creators and liquidity providers can also participate in the joint mining, letting Memory users at any time access the projects that are trending, promising, and willing to cooperate with Memory. Projects that pass the audit can create liquidity pools on Memory, and the liquidity providers of these pools can be rewarded with Memory tokens.
 {% endhint %}
 
 ### **Market making**
