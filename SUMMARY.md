@@ -20,13 +20,13 @@
 ## Memory平台应用生态
 
 * [🌐 SWAP基础组件](token-economics/overview.md)
-* [💹 NFT 创作交易平台](memory-ping-tai-ying-yong-sheng-tai/economic-model.md)
-* [时间锁](memory-ping-tai-ying-yong-sheng-tai/dev.committee.md)
-* [🎢 Memory 白名单](memory-ping-tai-ying-yong-sheng-tai/distribution-scheme.md)
+* [💹 NFT 创作交易平台](token-economics/economic-model/README.md)
+* [时间锁](token-economics/dev.committee/README.md)
+* [🎢 Memory 白名单](token-economics/distribution-scheme/README.md)
 * [竞猜](memory-ping-tai-ying-yong-sheng-tai/jing-cai.md)
-* [Untitled](token-economics/extra.md)
+* [IFO](token-economics/extra.md)
+* [DAO & Staking](memory-ping-tai-ying-yong-sheng-tai/dao-and-staking.md)
 
-## Introduction
+## GAMEFI
 
-* [Short cut](introduction-1/short-cut.md)
-* [Governance](introduction-1/governance.md)
+* [富甲三国](gamefi/short-cut.md)
