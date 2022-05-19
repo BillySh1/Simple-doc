@@ -29,4 +29,4 @@
 
 ## GAMEFI
 
-* [富甲三国](gamefi/short-cut.md)
+* [富甲三国](introduction-1/short-cut.md)
