@@ -4,10 +4,6 @@ description: Time Lock
 
 # 时间锁
 
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
 
 
 {% hint style="info" %}
