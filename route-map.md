@@ -1,42 +1,37 @@
----
-description: roadMemory
----
-
-# Memory发展路线
+# 🛣 Route Map
 
 ### 2022 Q1
 
-* [x] 启动官方网站
-* [x] 释放 swap 模块
-* [x] 发布 Memory Swap Litepaper
-* [x] 上线gamefi 富甲三国
+* [x] Launch the official website.
+* [x] Release the swap modules.
+* [x] Launch Memory Swap Litepaper.
+* [x] Launch the gamefi Three Wealthy Kingdoms
 
 ### 2022 Q2
 
-* [x] 开放流动性挖矿及单币无损挖矿，产出MMC
+* [ ] Open the liquidity mining and single-coin lossless mining, and produce MMC.
 
 ### 2022 Q3
 
-* [ ] 支持ETH、OEC、HECO、Polygon多链部署
+* [ ] Support multi-chain deployment including ETH, OEC, HECO, Polygon.
 
 ### 2022 Q4
 
-* [ ] Memory NFT平台上线、NFT交易市场
+* [ ] Launch Memory NFT platform in the NFT trading market
 
 ### 2023 Q1
 
-* [ ] 跨链桥、聚合交易上线，更新Swap版本
+* [ ] Launch cross-chain bridge and aggregation transactions, and update the Swap version.
 
 ### 2023 Q2
 
-* [ ] 启动DAO版本、常规借贷、NFT借贷，机枪池等生态
+* [ ] Launch DAO version, conventional loan, NFT loan, vault.
 
 ### 2023 Q3
 
-* [ ] 开发多链集成开源钱包
+* [ ] Develop multi-chain integrated open-source wallet
 
 ### 2023 Q4-♾️
 
-* [ ] 开发MMC独立公链，接纳更多开发者，入驻公链
+* [ ] Develop an independent public chain of MMC, accept more developers to enter the public chain.
 
-![](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxzb29ufGVufDB8fHx8MTY1Mjk1MDExNQ\&ixlib=rb-1.2.1\&q=80)
