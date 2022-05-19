@@ -35,3 +35,4 @@
   * [功能篇](gamefi/short-cut/gong-neng-pian.md)
   * [图鉴篇](gamefi/short-cut/tu-jian-pian.md)
   * [群英会战篇](gamefi/short-cut/qun-ying-hui-zhan-pian.md)
+  * [攻城略地及番外篇](gamefi/short-cut/gong-cheng-lve-di-ji-fan-wai-pian.md)
