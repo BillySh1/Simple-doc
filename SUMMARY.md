@@ -16,19 +16,17 @@
 * [综述](function-module/tier-structure.md)
 * [挖矿时代](function-module/transaction-module.md)
 * [治理](function-module/diversified-application.md)
-* [👾 NFT](function-module/nft.md)
-* [GAMEFI](function-module/gamefi.md)
 
-## Token Economics
+## Memory平台应用生态
 
-* [🌐 Overview](token-economics/overview.md)
-* [💹 Economic Model](token-economics/economic-model/README.md)
-  * [Figma Integration](token-economics/economic-model/figma-integration.md)
-* [Dev.Committee](token-economics/dev.committee/README.md)
-  * [GitHub Integration](token-economics/dev.committee/github-integration.md)
-* [🎢 Distribution Scheme](token-economics/distribution-scheme/README.md)
-  * [Intercom Integration](token-economics/distribution-scheme/intercom-integration.md)
-* [Extra](token-economics/extra.md)
+* [🌐 SWAP基础组件](memory-ping-tai-ying-yong-sheng-tai/overview.md)
+* [💹 Economic Model](memory-ping-tai-ying-yong-sheng-tai/economic-model/README.md)
+  * [Figma Integration](memory-ping-tai-ying-yong-sheng-tai/economic-model/figma-integration.md)
+* [Dev.Committee](memory-ping-tai-ying-yong-sheng-tai/dev.committee/README.md)
+  * [GitHub Integration](memory-ping-tai-ying-yong-sheng-tai/dev.committee/github-integration.md)
+* [🎢 Distribution Scheme](memory-ping-tai-ying-yong-sheng-tai/distribution-scheme/README.md)
+  * [Intercom Integration](memory-ping-tai-ying-yong-sheng-tai/distribution-scheme/intercom-integration.md)
+* [Extra](memory-ping-tai-ying-yong-sheng-tai/extra.md)
 
 ## Introduction
 
