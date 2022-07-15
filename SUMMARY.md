@@ -5,27 +5,27 @@
 
 ## Functional Module
 
-* [🏗 Tier Structure](functional-module/memory-wallet.md)
-* [💳 Trading section](functional-module/public-chain.md)
-* [🔠 Applications](functional-module/applications.md)
-* [🎮 GAMEFI](functional-module/gamefi.md)
-* [🌈 NFT Market](functional-module/nft-market.md)
+* [🏗 Tier Structure](introduction/memory-wallet.md)
+* [💳 Trading section](introduction/public-chain.md)
+* [🔠 Applications](gong-neng-mo-kuai/duo-yang-hua-ying-yong-ban-kuai.md)
+* [🎮 GAMEFI](gong-neng-mo-kuai/gamefi.md)
+* [🌈 NFT Market](gong-neng-mo-kuai/nft-jiao-yi.md)
 
 ## Token Economy
 
-* [🌐 Introduction](token-economy/tier-structure.md)
-* [💰 Mining ](token-economy/transaction-module.md)
-* [🤝 Governance](token-economy/diversified-application.md)
+* [🌐 Introduction](function-module/tier-structure.md)
+* [💰 Mining ](function-module/transaction-module.md)
+* [🤝 Governance](function-module/diversified-application.md)
 
 ## Ecology
 
-* [🍴 Memory Swap](ecology/overview.md)
-* [🖼 NFT Create Platform](ecology/economic-model.md)
-* [🕐 Timelock](ecology/dev.committee.md)
-* [🛡 WhiteList](ecology/distribution-scheme.md)
-* [Lottery](ecology/lottery.md)
-* [IFO](ecology/extra.md)
-* [DAO & Staking](ecology/dao-and-staking.md)
+* [🍴 Memory Swap](token-economics/overview.md)
+* [🖼 NFT Create Platform](token-economics/economic-model/README.md)
+* [🕐 Timelock](token-economics/dev.committee/README.md)
+* [🛡 WhiteList](token-economics/distribution-scheme/README.md)
+* [Lottery](memory-ping-tai-ying-yong-sheng-tai/jing-cai.md)
+* [IFO](token-economics/extra.md)
+* [DAO & Staking](memory-ping-tai-ying-yong-sheng-tai/dao-and-staking.md)
 
 ## GAMEFI
 

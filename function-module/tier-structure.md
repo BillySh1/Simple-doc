@@ -4,7 +4,7 @@ cover: >-
 coverY: 1827.8113509192644
 ---
 
-# 🌐 综述
+# 🌐 Introduction
 
 {% hint style="info" %}
 **MEMORY SWAP TOKEN** 是**MEMORY SWAP** 发行的应用代币。是推动MEMORY LABS发展的重要通证。基于 MEMORY 的经济模型，鼓励所有参与者和开发者通过代币的社区治理投资于整体生态网络的维护。
@@ -27,8 +27,6 @@ coverY: 1827.8113509192644
 #### 融资基金将会分别留向：流动池  护盘池  抽奖池&#x20;
 
 ####
-
-
 
 ### **独特的Against机制**
 

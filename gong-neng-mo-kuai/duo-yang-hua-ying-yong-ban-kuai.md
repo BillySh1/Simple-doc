@@ -2,7 +2,7 @@
 description: Diversfied Application
 ---
 
-# 🔠 多样化应用板块
+# 🔠 Applications
 
 ### 借贷
 
