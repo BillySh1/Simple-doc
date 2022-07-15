@@ -30,9 +30,9 @@
 ## GAMEFI
 
 * [RICH: The Three Kingdoms](introduction-1/short-cut.md)
-  * [卡牌机制篇](gamefi/short-cut/ka-pai-ji-zhi-pian.md)
-  * [战力强化篇](gamefi/short-cut/zhan-li-qiang-hua-pian.md)
-  * [功能篇](gamefi/short-cut/gong-neng-pian.md)
-  * [图鉴篇](gamefi/short-cut/tu-jian-pian.md)
-  * [群英会战篇](gamefi/short-cut/qun-ying-hui-zhan-pian.md)
-  * [攻城略地及番外篇](gamefi/short-cut/gong-cheng-lve-di-ji-fan-wai-pian.md)
+  * [Card Mechanism](gamefi/short-cut/card-mechanism.md)
+  * [Combat Strength](gamefi/short-cut/combat-strength.md)
+  * [Function articles](gamefi/short-cut/function-articles.md)
+  * [Pokédex](gamefi/short-cut/pokedex.md)
+  * [Battle of the Heroes](gamefi/short-cut/battle-of-the-heroes.md)
+  * [Siege and Side Story](gamefi/short-cut/siege-and-side-story.md)

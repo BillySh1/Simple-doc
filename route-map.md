@@ -1,37 +1,42 @@
-# 🛣 Route Map
+---
+description: roadMap
+---
+
+# 🔜 Memory Road Map
 
 ### 2022 Q1
 
-* [x] Launch the official website.
-* [x] Release the swap modules.
-* [x] Launch Memory Swap Litepaper.
-* [x] Launch the gamefi Three Wealthy Kingdoms
+* [x] Launch Official Web Site
+* [x] Release Swap module
+* [x] Launch Memory Swap Litepaper
+* [x] Launch RICH: The Three Kingdoms&#x20;
 
 ### 2022 Q2
 
-* [ ] Open the liquidity mining and single-coin lossless mining, and produce MMC.
+* [ ] Open liquidity mining and single-coin lossless mining, producing MDAO
 
 ### 2022 Q3
 
-* [ ] Support multi-chain deployment including ETH, OEC, HECO, Polygon.
+* [ ] Support ETH, OEC, HECO, Polygon multi-chain deployment
 
 ### 2022 Q4
 
-* [ ] Launch Memory NFT platform in the NFT trading market
+* [ ] Memory NFT platform launched, NFT trading market
 
 ### 2023 Q1
 
-* [ ] Launch cross-chain bridge and aggregation transactions, and update the Swap version.
+* [ ] Cross-chain bridge and aggregation transactions are launched, and the Swap version is updated
 
 ### 2023 Q2
 
-* [ ] Launch DAO version, conventional loan, NFT loan, vault.
+* [ ] Start DAO version, conventional loan, NFT loan, machine gun pool and other ecology
 
 ### 2023 Q3
 
-* [ ] Develop multi-chain integrated open-source wallet
+* [ ] Develop a multi-chain integrated open source wallet
 
 ### 2023 Q4-♾️
 
-* [ ] Develop an independent public chain of MMC, accept more developers to enter the public chain.
+* [ ] Develop an independent public chain of Memory, accept more developers, and enter the public chain
 
+![](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxzb29ufGVufDB8fHx8MTY1Mjk1MDExNQ\&ixlib=rb-1.2.1\&q=80)
