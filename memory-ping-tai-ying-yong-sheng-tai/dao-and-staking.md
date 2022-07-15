@@ -1,16 +1,16 @@
-# DAO & Staking
+# 🇬🇬 DAO & Staking
 
 ### DAO
 
-MemoryDao是完全由智能合约提供功能的的去中心化治理系统，完全由持有MDao代币的持有者来参与治理，对社区的各项活动进行提案及投票，比如释放锁仓代币、白名单的加入移除、社区金库的使用等。
+**MemoryDao** is a decentralized governance system fully powered by smart contracts. Holders of MDao tokens participate in governance, propose and vote on community activities, such as releasing lock-up tokens, Addition and removal of lists, use of community treasury, etc.
 
 ### Staking
 
-MemorySwap的Staking模块分为单币质押和LP质押。
+The Staking module of **MemorySwap** is divided into single-currency pledge and LP pledge.
 
-单币质押简单理解就是质押一种代币，可以锁仓质押，也可以随时提取，不同的方式年化收益不等。&#x20;
+A simple understanding of single-currency pledge is to pledge a token, which can be locked and pledged or withdrawn at any time. Different methods have different annualized returns.&#x20;
 
-比如手上持有MDao，可以通过MemorySwap的单币质押池进行质押挖矿。
+For example, if you hold MDao in your hand, you can use MemorySwap's single-currency pledge pool for pledge mining.
 
-质押MDao可以获得MDao等，对应的年化收益也不等。 LP质押，可以理解成组合币币交易对进行挖矿，比如MDao-WETH，MDao-USDT等等交易对，不同组合年化收益率也不同。&#x20;
+Staking **MDAO** can get **MDAO**, etc., and the corresponding annualized income varies. LP pledge can be understood as a combination of currency trading pairs for mining, such as **MDAO-WETH**, **MDAO-USDT** and other trading pairs, and the annualized yield of different combinations is also different.&#x20;
 
