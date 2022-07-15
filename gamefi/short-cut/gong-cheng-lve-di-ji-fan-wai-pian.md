@@ -1,46 +1,46 @@
-# Siege and Side Story
+# 攻城略地及番外篇
 
-### Siege
+### 攻城略地
 
-Siege is a completely overhead metaverse world, players can continue to explore and conquer more territories in the map to gain profits. In the entire huge world, players share the same set of epoch calendars, but due to different world lines, the territories between players are not connected. We will update the method of breaking the dimensional wall in subsequent versions and continue to advance the epoch story.
-
-&#x20;
-
-After entering the siege, players can go out for **NFT** cards indefinitely, and they can choose to let the generals perform various tasks of different periods to attack the city. Each city requires a lot of mobilization to capture. After reading the main storyline, you can participate in the siege.
+攻城掠地是一个完全架空的元宇宙世界，玩家可在地图中不断探索并征服更多的领土来获取收益。在整个庞大的世界中，玩家们共同使用同一套纪元历法，但由于世界线的不同，玩家之间的领地并不连通，我们将在后续的版本中更新打破次元壁的方法，并持续推进纪元故事。
 
 &#x20;
 
-In the story of the era where the siege is constant, the generals when the player goes out can still trigger the bond special effect and get the combat power bonus. After the task of challenging the city is over, the player can not recall the generals who went on the expedition and order them to continue the mission. At this time, additional The generals who perform the mission will receive the help of the aborigines in the world. Players can hire the aborigines to participate in the mission through the income obtained during the expedition. The combat value of the aborigines will be proportional to the income of the player.
+玩家在进入攻城掠地后，可以无限出征**NFT**卡牌，可选择让武将执行不同期限的各种任务来进攻城池，玩家只能进攻一个城池，选择其他城池需要解除当前正在执行的任务。每一个城池均需要大量的动员才可攻陷，在阅读完故事主线剧情后，即可参与攻城掠地。
+
+&#x20;
+
+攻城掠地恒定的纪元故事中，玩家出征时的武将仍然可以触发羁绊特效并获得战力加成，在挑战城池的任务结束后，玩家可以不召回出征的武将命其继续任务，此时额外执行任务的武将将会获得世界原住民的帮助，玩家可以通过出征时获得的收益雇佣原住民一同参与执行任务，原住民的战力值将与玩家投入的收益多寡成正比。
 
 
 
-### Qualifying (stay tuned)
+### 排位赛（敬请期待）
 
-### Invitation function
-
-{% hint style="info" %}
-We encourage players to generate their own invitation codes in the game, and distribute rewards by calculating the new players who enter the game through the invitation codes. We will update the reward situation in the leaderboard at any time to encourage more players to participate in the game. . In the invitation function, we will count all the earnings of the player, and after certain conditions are met, the limited title reward may be unlocked.
-{% endhint %}
-
-### Airdrop Blind Box
+### 邀请功能
 
 {% hint style="info" %}
-Players buy airdrop blind boxes with USDT, and they will not only randomly open RICH hero cards, but also randomly get airdropped MDAO tokens.
+我们鼓励玩家在游戏中生成自己的邀请码，并通过计算由邀请码进入游戏的新玩家来发放奖励，在排行榜中我们将随时更新奖励情况，并以此来激励更多玩家参与到游戏中。 在邀请功能中，我们会统计玩家的所有收益情况，在达成某些条件后，或可能解锁限定称号奖励。
 {% endhint %}
 
-### Lock-up income
+### 空投盲盒
 
-**Bank exchange lock-up income**
+{% hint style="info" %}
+玩家用USDT购买空投盲盒，不仅会随机开出RICH英雄卡牌，还会随机获得空投的MDao代币。
+{% endhint %}
 
-After players exchange USDT for copper coins, they will get 70% of the MDao revenue of the exchange value, but the generated MDao is locked and will be gradually unlocked within 2 years from the exchange date, and the unlocked tokens need to be collected manually.
+### 锁仓收益
 
-**Siege and loot lock-up income**
+**钱庄兑换锁仓收益**
 
-Lockable card duration 7 days 15 days 30 days
+玩家用USDT兑换铜钱后，会获得兑换价值70%的MDao收益，但是产生的MDao是锁仓的，会在兑换日起2年内，逐步解锁，解锁的代币需手动领取。
 
-Reward rate 900 combat days/MDao 800 combat days/MDao 700 combat days/MDao
+#### 攻城掠地锁仓收益
 
-Early withdrawal loses 50% of current income
+可锁卡牌期限 7 天15天 30天
 
-The income from mining can improve the next mining power /MDao +10 power, the withdrawal is cleared
+奖励速率 900战力天/MDao 800战力天/MDao 700战力天/MDao
+
+提前取出损失当前收益50%
+
+挖矿所得收益可提升下次挖矿战力 /MDao +10战力 提取清零
 

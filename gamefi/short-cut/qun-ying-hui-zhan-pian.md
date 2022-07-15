@@ -2,7 +2,7 @@
 description: Extra
 ---
 
-# Battle of the Heroes
+# 群英会战篇
 
 ### **主线进程**
 

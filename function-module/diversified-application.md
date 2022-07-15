@@ -1,18 +1,16 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxnb3Zlcm5hbmNlfGVufDB8fHx8MTY1Mjk0MjUzOQ&ixlib=rb-1.2.1&q=80
-coverY: 0
----
+# 🔠 Diversified Application
 
-# 🤝 Governance
+### Loan
 
-{% hint style="info" %}
-**Memory Swap** Committed to promoting decentralized governance and creating an open source ecosystem where the community has full autonomy. Decentralized governance is divided into three stages of development_。_
-{% endhint %}
+The platform adopts the multi-guaranteed mortgage asset system in the defi loan scheme, allowing the lender's idle assets to flow and generate higher returns. The borrower also has a lower risk of account blowing up. Thus the loan is more secure while completely decentralized. There is no need to concern about the human interference. We provide users with an absolutely secure, reliable, convenient defi.
 
-1. **2022 Q2**\
-   ****Issue the Memory Coin Token and release the economic model of the start-up phase I
-2. **2022 Q3**\
-   ****Launch DAO version 1, launch Phase II economic model and community incentives. Open governance channels such as community proposals and MDAO voting
-3. **2022 Q4**\
-   ****DAO version 2 is launched, and the development committee is converted to DAO. Decentralized governance and decision-making entirely organized by DAO
+### Derivatives transactions
+
+Memory adopts the decentralized derivatives transaction protocol and applies the combination of "off-chain matching+on-chain settlement" to make funds and transactions more secure and transparent, while ensuring its performance and response speed.
+
+The transaction polar point of the decentralized contract has some major advantages as follows：
+
+* It has a low transaction fee and fast withdrawal processing;
+* in terms of security, StarkWare's two-tier technology ensures the security and privacy protection through zero-knowledge proof.
+* In terms of transaction processing, transactions on Memory can be made immediately, and confirmed on the block chain within a few hours;
+* Memory can be cross-used, which means one account can access the positions of different transactions.

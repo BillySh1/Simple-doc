@@ -5,24 +5,32 @@ cover: >-
 coverY: 298.087929656275
 ---
 
-# 💳 Trading section
+# 💳 交易板块
 
 
 
-*   **IDO：**
+*   **众筹建池（IDO：**
 
-    Crowdfunding to build a pool is a way to distribute tokens and start a liquidity market with equal opportunities. Equal Opportunity Inspired by a new mechanism commonly found in the securities market, ensures that there are no jump-starts from scientists and interference from robots. Under the additional security provided by the liquidity protection period, users can participate in liquidity issuance activities with peace of mind and effectively support their favorite projects.
-*   **Smart Aggregate Transaction：**
+    众筹建池是一种平等机会的分配代币和启动流动性市场的方式。
 
-    Memory is built on the KCC smart chain, which can realize transactions between two arbitrary tokens on the same network. It intelligently finds the best order routing from liquidity sources, giving traders the best price and lowest slippage. Users who execute transactions on MemorySwap in the later stage can also choose to participate in transaction mining and receive MDAO token rewards.
-* **Active market maker algorithm:**\
-  Active Market Maker Algorithm MAMM is a new on-chain market making model. It is different from the non-constant function market maker model, which separates the relationship between transactions and assets. Parameters such as asset ratio and curve slope can be flexibly set. At the same time, oracles can also be introduced to guide prices or price discovery by the market on the chain. It gathers more funds near the market price and provides ample liquidity.
-*   **Mining：**
+    受证券市场上常见的打新机制的启发平等机会确保了没有科学家抢跑和机器人的干扰。
 
-    In addition to the above-mentioned transaction mining and traditional liquidity mining, pool creators and liquidity providers can also participate in joint mining, allowing Memory platform users to access projects that are trending, promising, and willing to cooperate with Memory at any time. . Projects that pass the audit can create liquidity pools on Memory, and the liquidity providers of these pools can be rewarded with MDAO tokens.
-*   **Marketing：**
+    在流动性保护期提供的额外安全保障下，用户可以安心参与流动性发行活动，切实地支持自己喜欢的项目。
+*   **智能聚合交易：**
 
-    Memory allows liquidity providers to flexibly create and manage their own market-making strategies through the Memory public pool and Memory private pool.
+    Memory基于KCC智能链构建，可以实现同一网络上两个任意代币之间的交易。
 
-> This is a completely permissionless, non-custodial process, where users have the right to configure various parameters of their own pools to build a liquidity market with an ideal pricing curve that suits their needs - MR.C CEO of MemoryLab
+    它能智能地从流动性来源中找到最佳的订单路由，为交易者提供最佳的价格和最低的滑点。
+
+    后期在MemorySwap上执行交易的用户还可以选择参与交易挖矿，获得MDAO代币奖励。
+* **主动做市商算法:**\
+  主动做市商算法 MAMM是一种新的链上做市模型。它有别于非恒定函数做市商模式，将交易对资产关系拆离开来。可以灵活的设置资产配比、曲线斜率等参数。同时也可以引入预言机来指导价格或链上由市场进行价格发现。它将更多资金聚集在市价附近，提供充足的流动性。
+*   **挖矿：**
+
+    除了上述的交易挖矿和传统的流动性挖矿外，池子创建者和流动性提供者还可以通过参与联合挖矿，让Memory平台用户随时接触到有趋势、有前景、愿意与Memory合作的项目。通过审核的项目可以在Memory上创建流动性池，这些池子的流动性提供者能获得MDAO代币奖励。
+*   **做市：**
+
+    Memory通过Memory公有池和Memory私有池，让流动性提供者可以灵活地创建和管理自己的做市策略。
+
+> 这是一个全程完全无需许可、非托管的过程，用户有权配置自己池子的各种参数，以建立具有适合其需求的理想定价曲线的流动性市场 - MR.C
 
