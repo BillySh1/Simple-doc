@@ -2,26 +2,26 @@
 description: Diversfied Application
 ---
 
-# 🔠 Applications
+# 🔠 多样化应用板块
 
-### Loan
+### 借贷
 
 {% hint style="success" %}
-The platform solves the **defi** loan scheme through the multi-guaranteed mortgage asset system, allowing the lender's idle assets to flow to generate higher returns, and the borrower's risk of liquidation is lower, making lending more secure and completely decentralized. No need to worry about human factor interference, provide absolutely safe, reliable, convenient and fast **defi**.
+平台通过多担保抵押资产系统解决 **defi** 借贷方案，让借出方的闲置资产流动从而产生更高的收益，让借入方的爆仓风险率更低，使得借贷更加安全方向，且完全去中心化，无需担心人为因素干扰 ，提供绝对安全、可靠、方便、快捷的 **defi** .
 {% endhint %}
 
-### Derivatives Trading
+### 衍生品交易
 
 {% hint style="info" %}
-The **Memory** platform adopts a decentralized derivatives trading protocol and adopts the design of "off-chain matching + on-chain settlement" to make funds and transactions more secure and transparent, while also ensuring performance and response speed.
+**Memory** 平台采用去中心化的衍生品交易协议，采用了“链外撮合+链上结算”的设计，使资金与交易更加安全及透明，同时也保证了性能和响应速度。
 {% endhint %}
 
-### The platform's decentralized contract trading pole part has significant advantages:
+### 平台的去中心化合约交易极点部分显著优势：
 
-* Low transaction fees and no gas costs
-* Fast in withdrawal processing efficiency without waiting
-* In terms of security and security, StarkWare's two-layer technology improves security and privacy through zero-knowledge proof. In terms of transaction processing, Memory transactions are immediately and can be executed within hours to complete confirmation on the blockchain
-* In the near future, Memory can be used interchangeably, with one account accessing positions on different trading pairs.
+* 在交易方面费用低，无气成本
+* 在取款处理效率方面速度快，无需等待
+* 在安全和性上，StarkWare的二层技术通过零识证明提高了安全性和隐私性, 在交易处理方面，Memory 交易立即并且可以执行数小时内在区块链上完成确认
+* 在即将过去方面，Memory 可以交叉使用，一个账户访问不同交易对的仓位。
 
 
 
