@@ -1,47 +1,47 @@
-# Card Mechanism
+# 卡牌机制篇
 
-### NFT Cards
+### NFT卡牌
 
-Fujia Three Kingdoms draws many generals from the Three Kingdoms period into exquisite cards, and each generals card has unique and gorgeous special effects to satisfy players' desire to collect.
+富甲三国把三国时期的众多武将被绘制成一张张精致的卡牌，并且每张武将卡牌都拥有独一无二的华丽特效，满足玩家的搜集欲。
 
-Each card is a unique NFT that can be permanently collected and freely traded on the blockchain. Each card has a different configuration. Players can improve the combat power and star rating of the card through upgrades and breakthroughs. However, the combat power value has an upper limit, and the growth of each card will be affected by various data. . In addition to the equipment and skills that can be installed in the card, you can view the following data of the card type you hold in the card details:
+每张卡牌都是独特的NFT，可永久收藏，也可在区块链上自由交易。 每张卡牌拥有不同的配置，玩家可通过升级与突破为卡牌提升战力值与星级，但战力值是有上限的，每张卡牌的成长性将会受到各种数据的影响。 除了卡牌可实装的装备与技能外，可卡牌详情中查看您持有的卡牌种的以下数据：
 
-1. Divided into four camps: Wei, Shu, Wu, and Qun
-2. Divided into four qualities: N, R, SR, SSR
-3. It is divided into five rarities: white, blue, purple, orange, and gold.
-4. It is divided into five basic generals occupations: Assassin, Shield Guard, Warrior, Adviser, and Auxiliary, as well as the Lord occupation that only holds gold cards.
-5. It is divided into five attributes corresponding to occupations: endurance, strength, intelligence, agility, and spirit.
+1. 分为魏、蜀、吴、群四个阵营
+2. 分为N、R、SR、SSR四种品质
+3. 分为白、蓝、紫、橙、金五种稀有度
+4. 分为刺客、盾卫、战士、谋士、辅士五种基础武将职业，和仅有金卡持有的主公职业。
+5. 分为耐力、力量、智力、敏捷、精神五种与职业相对应的属性
 
-### Power
+### 战力值
 
-Combat power is a key indicator for measuring NFT cards. Increasing the combat power as soon as possible is an important prerequisite for a better experience in the game. Players can improve their combat power in various ways. The combat power value of the cards held by the player will be cumulatively calculated into the player's total combat power data, which becomes the most important identification of the player. &#x20;
+战力值是衡量NFT卡牌的关键指标，尽快提升战力值是在游戏中获得较好体验的重要前提，玩家可以通过各种方式提高战力。玩家持有的卡牌战力值会累计计算到玩家总战力数据中，成为玩家最重要的身份识别 &#x20;
 
 {% hint style="info" %}
-The solutions listed below can achieve this effect：
+以下罗列出来的方案都可达成这一效果：
 {% endhint %}
 
-1. Improve the level and star rating of cards through upgrades and breakthroughs
-2. Through two cards of the same faction and the same rarity, you can advance to a card with a higher rarity. At this time, the card will be marked with a \[Combined] and inherit a certain combat power value of the original card.
-3. Get a brand new card by respawning
-4. Obtain buff titles and badges through the achievement system to increase combat power
-5. Increase your combat power in a short time by purchasing one-time items, only for elite battles
-6. Improve combat power by wearing equipment and unlocking skills
+1. 通过升级与突破升星，提高卡牌的等级与星级
+2. 通过两张通过两张相同阵营且相同稀有度的卡牌进阶为一张更高稀有度的卡牌，此时卡牌添加一个【合】标识，并继承原生卡牌的一定战力值
+3. 通过重生获得获得一张全新的卡牌
+4. 通过成就系统获取增益称号和徽章提高战力值
+5. 通过购买一次性道具短时间内提高战力值，仅限群英会战
+6. 通过佩戴装备与解锁技能提高战力值
 
-### Camp
+### 阵营
 
 {% hint style="info" %}
-According to the history of the Three Kingdoms, the heroes of the Three Kingdoms of Fujia are divided into four camps: Wei, Shu, Wu and Qunxiong, and they are corresponding to the four colors of blue, red, green and yellow.
+根据三国历史，富甲三国中把英雄分为了魏国，蜀国，吴国，群雄四大阵营，并以蓝、红、绿、黄四种颜色来对应。
 {% endhint %}
 
-* In the Battle of Heroes module, the four factions fight against each other. After you select a faction, you can only go to battle with the cards of this faction that you hold.
-* In the advanced stage, cards are promoted according to the faction, and the advanced stage can only support the fusion of two cards of the same faction.
+* 在群英会战模块中，四大阵营互相征战，您选定阵营后，**仅可出征您持有的本阵营卡牌**。
+* 在进阶中，根据阵营晋升卡牌**，进阶仅可支持融合两张相同阵营的卡牌**。
 
-Quality
+### 品质
 
-In order to highlight the uniqueness of each hero card, the card quality of Fujia Three Kingdoms is divided into N, R, S, and SSR flags to distinguish the quality, which represent ordinary, excellent, epic, and legendary respectively. The higher the quality, the higher the growth. , the higher the attributes of upgrade and breakthrough, you can click on the card in the game to view the card details and detailed data. In order to increase the interest, even cards of the same quality will be distinguished within the upper and lower limits. Cards with high growth rate are more collectible, and their quality will ultimately affect the combat power value.&#x20;
+为了凸显每张英雄卡牌的独特性，富甲三国中卡牌品质分为N、R、S、SSR的旗帜来区分品质，分别代表普通、优秀、史诗、传说，品质越高成长性越高，升级与突破提升的属性越高，游戏中可点击卡牌查看卡牌详情与详细数据。而为了增加趣味性，即使是相同品质的卡牌，也会有上下限区间内的区分。高成长性的卡牌具有更好的收藏性，品质最终都会影响战力值的高低。&#x20;
 
 {% hint style="info" %}
-The following are the growth ratings for each quality:
+以下为各品质的成长性评级：
 {% endhint %}
 
 1. N——E
@@ -49,66 +49,71 @@ The following are the growth ratings for each quality:
 3. SR——C\~B
 4. SSR——B\~S
 
-### Rarity
+### 稀有度
 
-In the Three Kingdoms of Fujia, according to the historical records of the Three Kingdoms and people's love for each general and hero, hero cards are divided into five rarities: white, blue, purple, orange, and gold. Hero cards of different rarities have different initial combat power, and the attributes improved by each level are also different. The rarity directly affects the basic combat value and market price of the card. Players can check the growth rating in the card details. Rarity is innate and cannot be changed by any means. Players can only advance to a higher rarity card through two cards of the same faction and the same rarity.
-
-{% hint style="info" %}
-The following are the star rules limited by each rarity:：
-{% endhint %}
-
-1. Whtie——1 Star
-2. Blue——2 Stars
-3. Purple——4 Stars
-4. Orange——5 Stars
-5. Gold——10 Stars
-
-### Profession
-
-**NFT** Cards are divided into five major occupations: shield, warfare, strategy, thorn, and auxiliary. In addition to the second, there are additional master occupations, only the gold card holds this occupation.
-
-Displayed in the lower left corner of the card, the corresponding main attributes are stamina, strength, intelligence, agility, and spirit. The main attribute combat power bonus is higher than other attributes. In the player battle modules such as the elite battle module and the qualifying match, the combination of generals of each main attribute is a good choice.
-
-
-
-### Stars
-
-The star rating is a relatively intuitive data that reflects the strength and potential of the **NFT** card. The star rating and level will be directly reflected on the card. The left side is the current level, and the right side is the owned star level.
-
-When you want to increase your combat power after obtaining a card, the most direct way is to buy upgrade items through the combat readiness store and go to upgrade and breakthrough. Players need to first increase the card experience value, and then break the level cap by breaking through, thereby increasing the star rating.
-
-The star's breakthrough limit is affected by rarity. When the upper limit cannot be exceeded, players can improve the quality and rarity of the card through advanced steps, thereby breaking the breakthrough limit. We will update more channels for obtaining experience points in subsequent versions.
+富甲三国中，根据三国历史记载和人们对各武将英雄的喜爱，将英雄卡牌进行了五大稀有度的区分：白、蓝、紫、橙、金。不同稀有度的英雄卡牌初始战力不同，每级提升的属性也不同。稀有度直接影响卡牌的基础战力值与市场价格，玩家可在卡牌详情中查看成长性评级。稀有度是天生属性，无法通过任何手段改变。玩家仅可通过两张相同阵营且相同稀有度的卡牌进阶为一张更高稀有度的卡牌。
 
 {% hint style="info" %}
-The following are the star rules limited by each rarity:
+以下为各个稀有度所限定的星级规则：
 {% endhint %}
 
-1. White——1
-2. Blue——2
-3. Purple——4
-4. Orange——5
-5. Gold——10
+1. 白卡——1星
+2. 蓝卡——2星
+3. 紫卡——4星
+4. 橙卡——5星
+5. 金卡——10星
 
-### Growth
+### 职业
 
-Growth is an indicator of the potential that NFT cards carry naturally. The cards obtained from the Recruitment Card Pool limit the growth height that the cards can achieve. Growth is directly linked to the attributes obtained during upgrades and breakthroughs. Occupation and attributes limit the direction in which cards can be improved. When the occupation and attributes are adapted, the bonus obtained each time you upgrade is maximized. Quality can intuitively express the weather vane of growth,以下列表即为品质对应的成长评级：
+**NFT**卡牌分为五大职业：盾、战、谋、刺、辅，除次以外还有额外的主公职业，仅金卡持有此职业。
+
+在卡牌的左下角展示，对应的主属性分别是耐力、力量、智力、敏捷、精神。主属性战力加成比其他属性要高。在群英会战模块和排位赛等玩家战斗模块中，各个主属性的武将搭配是不错的选择。
+
+
+
+### 星级
+
+星级是反馈**NFT**卡牌强度与潜力的一种比较直观的数据，星级与等级将直接反馈在卡牌上，左侧为当前等级，右侧则为所拥有的星级。
+
+当获得卡牌后想要提升战力值，最直接的方式即为通过战备商店购买升级道具并前往升级与突破。玩家需要先将卡牌经验值升满，然后再通过突破打破等级上限，从而提高星级。
+
+而星级的突破上限受稀有度影响，当无法再突破上限时，玩家可以通过进阶提高卡牌的品质和稀有度，从而打破突破上限。我们将在后续的版本中更新更多获取经验值的渠道。
+
+{% hint style="info" %}
+以下为各个稀有度所限定的星级规则：
+{% endhint %}
+
+1. 白卡——1
+2. 蓝卡——2
+3. 紫卡——4
+4. 橙卡——5
+5. 金卡——10
+
+### 成长性
+
+成长性是NFT卡牌所天生携带的潜力指标，从招贤纳士卡池中获得的卡牌即限定了卡牌所能达到的成长高度。成长性直接与升级与突破时获得的属性挂钩，职业与属性限定了卡牌所能提升的方向，当职业与属性适配时，每次升级时获得的加成最大化。品质可直观表达成长性的风向标，
+
+{% hint style="info" %}
+以下列表即为品质对应的成长评级：
+{% endhint %}
 
 1. N——E
 2. R——D\~C
 3. SR——C\~B
 4. SSR——B\~S
 
-### Equipment
+### 装备
 
-In our currently open equipment system, players have two main equipment slots for weapons and mounts, as well as seven armor slots for helmets, breastplates, belts, shoes, leg armors and shoulder armors. In addition, there are two accessories slots for accessories and bracers. All equipment is cast as NFT from Memory, and players can freely exchange equipment through the trading market.
+我们当前开放的装备系统中，玩家拥有武器和坐骑两个主装备栏，以及头盔、胸甲、腰带、鞋子、腿甲和肩甲等七个护具栏。除此之外，还有配饰和护腕两个饰品槽。所有装备皆又**Memory**铸造为**NFT**，玩家可以通过交易市场自由交换装备。
 
-We will unlock the function of strengthening equipment and gem inlay technology in the follow-up additional content, and will also launch a new exclusive weapon system. Players can collect exclusive weapons to raise the combat power of powerful generals to a higher level. In the exclusive weapons, we will continue to optimize the military commander development system and unlock the equipment system with growth attributes.
+我们将在后续的额外内容中解锁强化装备的功能与宝石镶嵌技术，同时也会上架全新的专属武器系统，玩家可以通过收集专属武器使强力武将的战力值再上一个阶梯。在专属武器中我们会继续优化武将养成体系，并解锁具有成长属性的装备系统。
 
 
 
-### Skill
+### 技能
 
-Skills can currently only be unlocked by increasing the star rating, and skills can only be used in ranked matches. Each card has an unlimited talent skill, and after the level is full, you can get an additional skill slot. We will open up the available trading skill kits in subsequent versions. Depending on the rarity, the upper limit of the skills that can be unlocked by the card is also different. The gold card can obtain up to six skills, while the white card has only two skills.
+技能当前仅可通过提高星级解锁，且技能仅可在排位赛中使用。每张卡牌皆有一个无限制的天赋技能，在等级升满后又可额外获得一个技能槽，我们将在后续的版本中开放可供的交易技能锦囊。\
+视稀有度不同，卡牌所能解锁的技能上限也不同，金卡最高能获得六个技能，而白卡仅有两个技能。
 
 
 
