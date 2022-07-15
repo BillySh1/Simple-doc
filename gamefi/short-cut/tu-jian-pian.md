@@ -1,55 +1,53 @@
-# 图鉴篇
+# Pokédex
 
-### 基础道具
+### Bsasic props
 
-*   **粮草**
+*   **Food**
 
-    在群英会战中需要携带的必备物资，在驿站中可以在回收商人处出售。
-* **衅鼓** \
-  在群英会战中出征武将时使用的道具
-* **优秀宝石** \
-  在进阶中使用的宝石，可稍微提高出现高级品质的概率
-* **史诗宝石** \
-  在进阶中使用的宝石，可一定程度提高出现高级品质的概率
-*   **传说宝石**
+    The necessary supplies that need to be carried in the battle of the heroes can be sold at the recycling merchants in the inn.
+* **Drump** \
+  Items used in the battle of heroes
+* **Excellent gem** \
+  ****The gems used in the advanced stage can slightly increase the probability of appearing in advanced quality
+* **epic gem** \
+  ****Gems used in advanced can increase the probability of appearing advanced quality to a certain extent
+*   **Legend gem**
 
-    在进阶中使用的宝石，可大量提高出现高级品质的概率
-* **金镶灵玉** \
-  在进阶中使用的宝石，可随机提升部分属性
-* **《大禹谟》** \
-  ****SSR品质使用的升级兵法
-* **《系辞经》** \
-  ****SR品质使用的升级兵法
-*   **《广雅笺》**
+    Gems used in the advanced stage can greatly increase the probability of appearing in advanced quality
+* **Gold inlaid jade** \
+  The gems used in the advanced stage can randomly improve some attributes
+* **《Da yumo》** \
+  ****Upgraded tactics used by SSR quality
+* **《Xi cijing》** \
+  ****Upgraded tactics used by SR quality
+*   **《Guang yajian》**
 
-    R品质使用的升级兵法
-*   **《纵横卷》**
+    Upgraded tactics used by R quality
+*   **《Zong hengjuan》**
 
-    N品质使用的升级兵法
-*   **玉灵瓶**
+    Upgraded tactics used by N quality
+*   **Yu ling Bottle**
 
-    NFT卡牌满级后，突破升星时使用的道具
-*   **两仪石**
+    After the NFT card is fully leveled, the item used when breaking through the star
+*   **Reborn Stone**
 
-    重生时所必须使用的道具
-*   **并尊盟约**
+    Items you must use when respawning
+*   **Honor the covenant**
 
-    进阶时所必须使用的道具
+    Items that must be used when advancing
 
-### 特殊道具
+### Special props
 
-* **帝昊龙吟** \
-  第七天解锁购买，仅可在第七天使用，使用后立即抵达决战战场
-*   **号令军旗**
+*   **Command flag**
 
-    购买后随机获得以下其中一种道具，可开出五种不同品质的道具用于提升您在地图中的移动速度
-* 青铜骏马 **+ 5**  行军速率
-* 白金汗血 **+ 10** 行军速率
-* 银狐牺尊 **+ 15** 行军速率
-* 白神象彝 **+ 20** 行军速率
-* 龙刻陨星 **+ 25** 行军速率
+    After purchasing, you will get one of the following props randomly, you can open five different quality props to improve your movement speed in the map
+* Bronze Steed + 5 March Speed
+* Platinum Sweat + 10 March Speed
+* Silver Fox Sacrifice + 15 March Speed
+* White God Yi + 20 marching speed
+* Dragon Carved Meteor + 25 March Speed
 
-### 装备图鉴(敬请期待)
+### Equipment Illustration (stay tuned)
 
-### 技能图鉴(敬请期待)
+### Skill Manual (stay tuned)
 
