@@ -1,4 +1,4 @@
-# 卡牌机制篇
+# Card Mechanism
 
 ### NFT卡牌
 

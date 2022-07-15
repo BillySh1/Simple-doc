@@ -1,4 +1,4 @@
-# 战力强化篇
+# Combat Strength
 
 ### 招贤纳士
 

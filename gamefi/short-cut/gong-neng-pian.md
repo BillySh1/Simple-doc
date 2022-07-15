@@ -1,4 +1,4 @@
-# 功能篇
+# Function articles
 
 ### 战备商店
 
