@@ -1,17 +1,30 @@
-# 💳 Memory Wallet
+---
+cover: >-
+  https://images.unsplash.com/photo-1545987796-200677ee1011?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxuZXR3b3JrfGVufDB8fHx8MTY1Mjk1MDQzMA&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
 
-{% hint style="info" %}
-Memory wallet makes all transactions recorded in an open, transparent and tamper-resistant manner. Transactions can be checked on the block chain.
+# 🏗 Tier Structure
+
+
+
+{% hint style="success" %}
+The **Memory Swap** platform adopts a four-layer structure to ensure the integrity and symmetry of liquidity market information. Therefore, consumers have a safe and efficient transaction environment.
 {% endhint %}
 
-### Speed
+#### Network Layer
 
-#### Transfer between the same kind of wallet can be made in seconds through the acceleration technology channel.Creating a project
+As the basis of the Memory Swap cross-chain protocol, we will use high-quality public chains such as KCC for deployment. market liquidity
 
-#### With multi-chain support, memory Chain can achieve the interflow of assets, enabling assets to cross chains efficiently.
+#### Market Liqudity
 
-### Support
+Aggregating different liquidity sources through **Memory Swap** enables the platform to identify and recommend the best exchange quotes for users.
 
-#### Open source wallet means the completely decentralization. The third-party applications in the wallet should have the MMC token.
+#### Settlement Layer
 
-#### Transaction verification includes a three-step verification and the password input, after which users shall make a final confirmation, so as to avoid mistakes to the utmost extent.
+Based on the authorization of the private key signature, the transaction settlement is completed through the smart contract.
+
+#### Application Layer
+
+Provide developers with a complete service API to integrate into different applications, and provide users with a convenient and user-friendly operating platform.
+
