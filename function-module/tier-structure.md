@@ -4,46 +4,44 @@ cover: >-
 coverY: 1827.8113509192644
 ---
 
-# 🌐 综述
+# 🌐 Introduction
 
 {% hint style="info" %}
-**MEMORY SWAP TOKEN** 是**MEMORY SWAP** 发行的应用代币。是推动MEMORY LABS发展的重要通证。基于 MEMORY 的经济模型，鼓励所有参与者和开发者通过代币的社区治理投资于整体生态网络的维护。
+**MEMORY SWAP TOKEN** is an application token issued by **Memory Swap**. It is an important token to promote the development of **Memory Labs**. Based on the Memory economic model, all participants and developers are encouraged to invest in the maintenance of the overall ecological network through the community governance of tokens.
 {% endhint %}
 
-### 经济模型
+### Economic Model
 
-在**Memory Swap**的经济模型中，赚**MDAO**的方式有2种。首先，用户可以通过早期参与产品测试和社区贡献获得空投。其次，他们可以通过**Memory Swap**获得挖矿奖励。
+In **Memory Swap's** economic model, there are two ways to earn MDAO. First, users can get airdrops through early participation in product testing and community contributions. Second, they can get mining rewards through **Memory Swap**.
 
-另一方面，**Memory Swap** 的所有交易费用将定期用于在公开市场回购代币，并按比例分配给代币权益持有者和发展委员会。
+On the other hand, all transaction fees for **Memory Swap** will be regularly used to buy back tokens in the open market, and will be distributed proportionally to token stake holders and development committees.
 
-### 发展委员会
+### Development Committe
 
-发展委员会主要负责推动项目的发展和社区建设。在早期阶段，它将由**Memory Labs**、社区贡献者和获得多数票的代表组成。后期完全由社区选举产生。
+The Development Committee is mainly responsible for promoting the development of the project and building the community. In the early stages, it will be comprised of **Memory Labs**, community contributors, and delegates with a majority vote. The latter stage is entirely elected by the community.
 
-### 分配机制(详情请查看官网)
+### Distribution Mechanism (For details, please check the official website)
 
-#### 发行总量：14亿枚
+#### Total Release：14,000,000,00
 
-#### 融资基金将会分别留向：流动池  护盘池  抽奖池&#x20;
+#### Financing funds will be reserved for: liquidity pool protection pool lottery pool&#x20;
 
 ####
 
+### Unique Against Mechanism
 
+*   **Buy：**\
+    ****40% lottery pool
 
-### **独特的Against机制**
+    60% guard pool
+*   **Sell：**\
+    30% lottery pool
 
-*   **买入：**\
-    ****40% 抽奖池
+    70% guard pool
+* Burn 15% of payment tokens when selling
+*   **Buy with automatic support：**
 
-    60% 护盘池
-*   **卖出：**\
-    30%抽奖池
+    When the token price is lower than 20% of the initial liquidity price, it will be automatically purchased in batches, and half of the stored value in the reserve pool will be purchased each time. Keep.
+*   **Time Egg：**
 
-    70%护盘池
-* 卖出时燃烧支付代币的15％
-*   **自动护盘买入：**
-
-    当代币价格低于初始流动性价格的20%，自动分批买入，每次将护盘池中一半的储值买入，护盘获得的代币存放在合约地址内，将用于生态预留。
-*   **时空彩蛋：**
-
-    交易笔数2022笔后，抽取代币持仓在5万以上的5名幸运用户分享抽奖池5%
+    After 2022 transactions, 5 lucky users with token holdings of more than 50,000 will share 5% of the lottery pool
