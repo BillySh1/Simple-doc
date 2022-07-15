@@ -1,4 +1,4 @@
-# 🌈 NFT Market
+# 🌈 NFT交易
 
 ![](https://images.unsplash.com/photo-1638913971789-667874197280?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MXwxfHNlYXJjaHwxfHxuZnR8ZW58MHx8fHwxNjUyOTQxNTMx\&ixlib=rb-1.2.1\&q=80)
 

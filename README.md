@@ -5,37 +5,38 @@ cover: >-
 coverY: 333.1127098321342
 ---
 
-# 🌏 Overview
+# 🌏 总览
 
-**Preface**
-
-{% hint style="info" %}
-The mission of the **Memory Swap** platform is to provide consumers with access to cryptocurrency-based financial services, enabling them to exchange or "swap" a variety of digital assets within their **Memory** wallets.
-
-The benefits of this design can be attributed to the high level of security inherent in the decentralized model of asset storage and protection.&#x20;
-
-In response to the advanced development of decentralized financial protocols (**DeFi**) and the growing maturity of markets such as lending, exchanges, derivatives, **NFT**, and **Gamefi**, the Memory Swap platform protocol cooperates with related decentralized wallet software to provide one-stop aggregation and exchange Provides a platform for consumers and provides developers with access to an open, distributed, unlimited and secure transaction environment.
-{% endhint %}
-
-#### Background
+#### 导言
 
 {% hint style="info" %}
-**Memory Labs** was established in Singapore in **2019**, and we work tirelessly to contribute to advancing the field of professional development of crypto wallets. Since its establishment, we have continued to learn and grow, and what was once a small team has grown into a far-reaching and diverse group; currently, our team members come from almost every continent, and Memory Labs is committed to using blocks for more than 40 countries around the world Chain users, providing professional digital asset management tools and services.
+**Memory Swap** 平台的使命是为消费者提供基于加密货币的金融服务的访问权限，使他们能够在其 **Memory** 钱包中交换或“交换”各种数字资产。
+
+这种设计的好处可归因于资产存储和保护的分散模型所固有的高度安全性。该平台后期还提供 “跨链”交换以进行交换结算，而无需考虑典型的孤立区块链网络的局限性。
+
+针对去中心化金融协议（**DeFi**）的先进发展以及借贷、交易所、衍生品、**NFT**、**Gamefi**等市场日 益成熟，**Memory Swap**平台协议与相关的去中心化钱包软件合作，提供一站式聚合和交换为消费者提供平台，并为开发人员提供访问开放、分布式、无限和安全的交易环境。
 {% endhint %}
 
-#### Wallet
+#### 背景
 
-* [ ] Multi-signature wallet, all transactions can be checked on the blockchain, open and transparent and cannot be tampered with.
-* [ ] Multi-chain support, through the Memory Chain, assets on the chain can be interoperated to achieve high-efficiency asset cross-chain.
-* [ ] The wallet will be fully open source and completely decentralized. Third-party applications in the wallet need to hold MDAO tokens.
-* [ ] Transaction verification will be done through three-step verification plus transaction password. After verification and transaction password are passed, confirmation will be prompted again to reduce the fault tolerance rate.
+{% hint style="info" %}
+**Memory Labs** 于 2019年在新加坡成立，我们孜孜不倦地为推动加密钱包专业开发领域的发展做出贡献。 自成立以来，我们不断学习和成长，曾经的小团队已经成长为一个影响深远且多元化的群体； 目前，我们的团队成员几乎来自各大洲，**Memory Labs** 致力于为全球 **40** 多个国家使用区块链的用户，提供专业的数字资产管理工具和服务.
+{% endhint %}
 
-#### Public Chain
+#### 钱包
 
-Memory Chain Core Tech
+* [ ] 在同钱包间互转，通过闪电加速技术通道，可以达到秒到账。
+* [ ] 多重签名钱包，所有交易都在区块链上可查，公开透明不可篡改。
+* [ ] 多链支持，通过Memory Chain可以做到链上资产互通，实现高效率资产跨链。
+* [ ] 钱包将全部开源，完全去中心化，在钱包内的第三方应用，需要持有MDAO通证。
+* [ ] 交易验证将通过三步验证加交易密码，验证加交易密码通过后，会再次提示确认，降低容错率。
 
-* [ ] High throughput, fast confirmation speed, running TPS up to **10000**+, transfer confirmation time **3-5s.**
-* [ ] Hundred-chain interconnection, value interconnection, multi-chain linkage, and low-threshold interconnection are realized through the underlying smart contract technology.
-* [ ] Smart contracts, payment and settlement, chain games, and Metaverse provide an independent development environment and open up a virtual-to-real environment.
-* [ ] Fragmented node system, which can be used as an effective node in the public chain through smart devices, without the need to purchase physical mining machines.
-* [ ] In the era of MDAO, the Dapps running on the Memory Chain will start voting from time to time.
+#### 公链
+
+Memory Chain核心技术
+
+* [ ] 高吞吐量、确认速度快，运行TPS可达25000+，转账确认时间3-5s。
+* [ ] 百链互通，价值互联，多链联动，通过底层智能合约技术，实现低门槛互通。
+* [ ] 智能合约、支付清算、链游、元宇宙，提供独立开发环境，打通虚拟链接现实的环境。
+* [ ] 碎片式节点制，通过智能设备可以在公链内作为有效节点，无需购买实体矿机。
+* [ ] 开启MDAO时代，在Memory Chain链上所运行的Dapp，开启时时投票。

@@ -6,37 +6,37 @@ description: roadMap
 
 ### 2022 Q1
 
-* [x] 启动官方网站
-* [x] 释放 swap 模块
-* [x] 发布 Memory Swap Litepaper
-* [x] 上线gamefi 富甲三国
+* [x] Launch Official Web Site
+* [x] Release Swap module
+* [x] Launch Memory Swap Litepaper
+* [x] Launch RICH: The Three Kingdoms&#x20;
 
 ### 2022 Q2
 
-* [ ] 开放流动性挖矿及单币无损挖矿，产出MDAO
+* [ ] Open liquidity mining and single-coin lossless mining, producing MDAO
 
 ### 2022 Q3
 
-* [ ] 支持ETH、OEC、HECO、Polygon多链部署
+* [ ] Support ETH, OEC, HECO, Polygon multi-chain deployment
 
 ### 2022 Q4
 
-* [ ] Memory NFT平台上线、NFT交易市场
+* [ ] Memory NFT platform launched, NFT trading market
 
 ### 2023 Q1
 
-* [ ] 跨链桥、聚合交易上线，更新Swap版本
+* [ ] Cross-chain bridge and aggregation transactions are launched, and the Swap version is updated
 
 ### 2023 Q2
 
-* [ ] 启动DAO版本、常规借贷、NFT借贷，机枪池等生态
+* [ ] Start DAO version, conventional loan, NFT loan, machine gun pool and other ecology
 
 ### 2023 Q3
 
-* [ ] 开发多链集成开源钱包
+* [ ] Develop a multi-chain integrated open source wallet
 
 ### 2023 Q4-♾️
 
-* [ ] 开发Memory独立公链，接纳更多开发者，入驻公链
+* [ ] Develop an independent public chain of Memory, accept more developers, and enter the public chain
 
 ![](https://images.unsplash.com/photo-1614332287897-cdc485fa562d?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxzb29ufGVufDB8fHx8MTY1Mjk1MDExNQ\&ixlib=rb-1.2.1\&q=80)

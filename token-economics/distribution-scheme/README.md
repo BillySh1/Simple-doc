@@ -1,4 +1,4 @@
-# 🛡 WhiteList
+# 🛡 Memory 白名单
 
 {% hint style="info" %}
 #### **白名单审核机制**
