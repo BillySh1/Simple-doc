@@ -1,35 +1,35 @@
 # Table of contents
 
-* [🌏 总览](README.md)
-* [🔜 Memory发展路线](route-map.md)
+* [🌏 Overview](README.md)
+* [🔜 Memory Road Map](route-map.md)
 
-## 功能模块
+## Functional Module
 
-* [🏗 层结构](introduction/memory-wallet.md)
-* [💳 交易板块](introduction/public-chain.md)
-* [🔠 多样化应用板块](gong-neng-mo-kuai/duo-yang-hua-ying-yong-ban-kuai.md)
-* [🎮 GAMEFI](gong-neng-mo-kuai/gamefi.md)
-* [🌈 NFT交易](gong-neng-mo-kuai/nft-jiao-yi.md)
+* [🏗 Tier Structure](functional-module/memory-wallet.md)
+* [💳 Trading section](functional-module/public-chain.md)
+* [🔠 Applications](functional-module/applications.md)
+* [🎮 GAMEFI](functional-module/gamefi.md)
+* [🌈 NFT Market](functional-module/nft-market.md)
 
-## 代币经济
+## Token Economy
 
-* [🌐 综述](function-module/tier-structure.md)
-* [💰 挖矿时代](function-module/transaction-module.md)
-* [🤝 治理](function-module/diversified-application.md)
+* [🌐 Introduction](token-economy/tier-structure.md)
+* [💰 Mining ](token-economy/transaction-module.md)
+* [🤝 Governance](token-economy/diversified-application.md)
 
-## Memory平台应用生态
+## Ecology
 
-* [🍴 Memory Swap](token-economics/overview.md)
-* [🖼 NFT 创作交易平台](token-economics/economic-model/README.md)
-* [🕐 时间锁](token-economics/dev.committee/README.md)
-* [🛡 Memory 白名单](token-economics/distribution-scheme/README.md)
-* [竞猜](memory-ping-tai-ying-yong-sheng-tai/jing-cai.md)
-* [IFO](token-economics/extra.md)
-* [DAO & Staking](memory-ping-tai-ying-yong-sheng-tai/dao-and-staking.md)
+* [🍴 Memory Swap](ecology/overview.md)
+* [🖼 NFT Create Platform](ecology/economic-model.md)
+* [🕐 Timelock](ecology/dev.committee.md)
+* [🛡 WhiteList](ecology/distribution-scheme.md)
+* [Lottery](ecology/lottery.md)
+* [IFO](ecology/extra.md)
+* [DAO & Staking](ecology/dao-and-staking.md)
 
 ## GAMEFI
 
-* [富甲三国](introduction-1/short-cut.md)
+* [RICH: The Three Kingdoms](introduction-1/short-cut.md)
   * [卡牌机制篇](gamefi/short-cut/ka-pai-ji-zhi-pian.md)
   * [战力强化篇](gamefi/short-cut/zhan-li-qiang-hua-pian.md)
   * [功能篇](gamefi/short-cut/gong-neng-pian.md)
