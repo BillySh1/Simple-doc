@@ -24,5 +24,5 @@ coverY: 298.087929656275
 
     Memory allows liquidity providers to flexibly create and manage their own market-making strategies through the Memory public pool and Memory private pool.
 
-> This is a completely permissionless, non-custodial process, where users have the right to configure various parameters of their own pools to build a liquidity market with an ideal pricing curve that suits their needs.
+> This is a completely permissionless, non-custodial process, where users have the right to configure various parameters of their own pools to build a liquidity market with an ideal pricing curve that suits their needs - MR.C CEO of MemoryLab
 
