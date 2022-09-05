@@ -2,127 +2,121 @@
 description: Extra
 ---
 
-# 群英会战篇
+# Battle of the Heroes
 
-### **主线进程**
+### Mainline process
 
-群英会战由四个阵营互相敌对，通过七天的旅程分别通过不同的行军路线抵达最终决战的目的地并角逐出胜负。玩家需要选定某一方阵营后，派遣相应阵营的武将（即NFT卡牌）前往战场。
+The Battle of the Heroes consists of four factions opposing each other, through a seven-day journey through different marching routes to reach the destination of the final decisive battle and compete for the winner. Players need to select a certain faction and send generals (ie NFT cards) of the corresponding faction to the battlefield.
 
-玩家仅可出征5名武将，主公职业则不受出征数量限制。
+Players can only go on an expedition of 5 generals, and the master class is not limited by the number of expeditions.
 
-玩家在选择完阵营后在游戏第七日结算之前都不可再更改，同时已出征的武将无法召回，在七日之中，玩家出征的所有武将将构成衡量战力的重要基础数据，并可累计到阵营总战力中。您在游戏中所能获得的收益来源非常丰富，详情请参见结算收益与判定词条。
+After the player selects the faction, it cannot be changed until the seventh day of the game. At the same time, the generals who have gone on the expedition cannot be recalled. During the seven days, all the generals that the player has gone on the expedition will constitute important basic data to measure the combat power, and can be accumulated. to the total combat power of the camp. The sources of income you can get in the game are very rich, please refer to the settlement income and judgment entry for details.
 
-在主线游戏中，玩家出生在地图中的所属阵营起始点，并需要做出选择动作加入游戏，根据事件分支进入不同行军路线,根据路线途径附近的城市或据点并触发相应事件，除随机事件外，还有固定事件——遭遇战和埋伏战。
-
-
-
-### 游戏机制
-
-玩家们以出征的武将作为基础战力值，并通过玩家自主选择不同行军路线前往目的地，第七天在决战战场开展对垒，按阵营战力值排行来角逐胜负，总战力最高的阵营获得第一名，并按战力排序依次类推。
-
-#### 在进入游戏时需要注意以下几点：
-
-1. 玩家进入战场时需要携带与其战力相匹配的粮草，且需要消耗道具——衅鼓
-2. 在战斗中遭遇埋伏或进行遭遇战皆有几率掉落自身持有道具
-3. 在决战之前的战斗中，武将会根据战力对比情况和胜负判定中受到不同程度的负伤，战力值会暂时性地略微下调一部分
-4. 在决赛之前玩家或可能遭遇多次战斗，战斗中损失的筹码可在下一次遭遇中再赢回。
-5. 玩家出征后拥有个人出征战力值，且计入阵营战力值中
-
-### 天策府
-
-{% hint style="info" %}
-玩家在主城内进入天策府即可出征NFT卡牌，卡牌的战力值将作为本场战役中的筹码。
-{% endhint %}
-
-1. 仅可出征当前阵营的5名武将，主公职业则不受出征数量限制
-2. 出征时须携带与个人出征战力值相匹配的粮草数量
-3. 出征的卡牌战力值计入当前战役的个人出征战力值与阵营战力值中
-4. 已出征的武将无法召回，且无法参与其它游戏活动，出征期间暂停计入玩家总战力值
-5. 出征时的武将可触发故事羁绊彩蛋，根据触发难度获得不同程度的属性加成
-6. 出征需要消耗道具衅鼓
-
-### **行军路线**
-
-玩家在游戏中遭遇固定事件时需要手动选择路线，根据行军方向的不同分别前往不同的地点，部队行进无法返回，选择请慎重。&#x20;
-
-由于四方阵营分别有着多条路线，所以地图上的某些临近终点的重要城市或将成为各势力的路线交汇之处。
-
-我们试图从地缘角度还原兵家必争之地的重要性，所以为了获得主动权，玩家可能需要针对这些重要城市进行合理部署以便在突如其来的遭遇战中获得更大的优势。
+In the main game, the player is born at the starting point of the faction on the map, and needs to make a choice action to join the game, enter different marching routes according to the event branch, go to nearby cities or strongholds according to the route and trigger corresponding events, except for random events. , and fixed events - skirmishes and ambush.
 
 
 
-### 补给驿站
+### Game mechanics
 
-玩家在出征后可以在主城内的补给驿站购买速率道具号令军旗，号令军旗会随机开出青铜骏马、白金汗血、银狐牺尊、白神象彝、龙刻陨星等5个速率物品中的一种，且每种道具均有着品质高低的区别。速率道具不仅会提升玩家的行进速度，还有额外的属性加成，分别对应**NFT**卡牌的5个属性。
+Players use the generals they go on as their basic combat strength, and choose different marching routes to their destinations independently. On the seventh day, they will compete on the decisive battlefield, and they will compete according to the combat strength of the faction. The camp with the highest total combat strength Get the first place, and so on in order of combat power.
 
-在第七天驿站会解锁飞行道具——帝豪龙吟，仅可在第七天使用，使用后立即抵达决战战场。
+#### Here are a few things to keep in mind when entering the game:
 
-回收商人会使用**MDAO**回收玩家手中的道具，并根据某种特别的规律向玩家提供不同的报价，时而较高时而较低。在某些特殊的时间里，回收商人还接受其他特殊道具的回收。
+1. When players enter the battlefield, they need to bring food and grass that matches their combat power, and they need to consume props-Qiaogu
+2. There is a chance to drop your own items when encountering an ambush or encountering an encounter during the battle
+3. In the battle before the decisive battle, the military commander will be injured to different degrees according to the comparison of combat power and the judgment of victory and defeat, and the combat power value will be temporarily reduced by a part.
+4. After the player goes out, he has a personal battle strength value, and it is included in the faction's battle strength value.
 
-
-
-### **随机事件**
+### Tiancefu
 
 {% hint style="info" %}
-随机事件 玩家在正常推进中路过城市会遭遇随机事件，根据遭遇到的事件影响到行军中的武将，包括但不限于短时间内的属性的增加或降低。随机事件无法幸免。
+Players can enter the Tiance Mansion in the main city to go out to the NFT card, and the combat value of the card will be used as a bargaining chip in this battle
 {% endhint %}
 
-### 埋伏战
+1. When going on expedition, you must bring the amount of food and grass that matches your personal expedition strength value
+2. The combat power value of the expedition cards is included in the personal expedition combat power value and faction combat power value of the current campaign
+3. The generals who have gone on expedition cannot be recalled and cannot participate in other game activities. During the expedition period, the total combat power value of the player will be suspended.
+4. The generals at the time of the expedition can trigger the story fetter eggs, and obtain different levels of attribute bonuses according to the trigger difficulty
+5. Expeditions require consumption of props and drums
 
-玩家在游戏中有机会触发固定事件，并前往某个据点对其它势力展开埋伏，埋伏者可以在原地等候，而其它势力的玩家将在此地毫无准备的遭受攻击，战斗将持续一段时间才可分出胜负，在战斗期间，后抵达战场的玩家仍然可以计入双方战力对比中。
+### Marching route
 
-1. 埋伏方具有一定量的战力加成。
-2. 由于行军路线与行军速率的存在，不同玩家经过该据点的时机并不一致，埋伏并不一定能爆发战斗。
-3. 战斗双方在战斗结束后均有一定程度的负伤，战力值会暂时降低一部分
-4. 战斗失败的一方将损失一定比例的随军粮草
-5. 在遭遇埋伏后，玩家可以选择缴纳一定额的粮草投降并快速通过该区域
+Players need to manually choose a route when encountering a fixed event in the game, and go to different locations according to the different marching directions. The troops cannot return when they are marching. Please choose carefully.
 
-### 遭遇战
+Since the four factions have multiple routes, some important cities on the map near the end point may become the intersection of the routes of the various forces.
 
-在地图中有一些毗邻决战战场的城市有着较大的流动量，这些城市皆位于开阔地带无天险可守。因此抵达这里的玩家若要在此狙击敌军需要就地扎营并与对方展开公平的阵地战，同时战斗获胜的一方将获得驻扎在该地点的权力，将可以选择继续留守并狙击接下来的敌方势力。
-
-
-
-### **结算收益与判定**
-
-**战斗结算**
-
-**遭遇战与埋伏战**
-
-* 在遭遇战和埋伏战中，胜负方均承受一定程度的短期战力惩罚，败方惩罚要更高。
-* 战败的一方每个玩家均可能随机掉落一件道具，战利品道具将随机分配胜利方的玩家
-* 战败的一方需要付出一定数额的粮草，战利品粮草将按战胜方的兵力比例发放
-* 战败的一方在战斗结束后会立即离开该据点并继续前进
-* 战胜的一方在战斗结束后可以选择继续留守该据点
-* 战胜的一方能缴获对手的地图从而补全地图
-* 战胜的一方在战斗结束后可以获知该次交战对手的战力值情况，而战败方无法查看
-
-**决战**
-
-在第七天决战中，奖池将按照浮动比例依**阵营总战力值**获胜名次分发给相应阵营。并在阵营内依照抵达终点时的**个人出征战力值**的比例分割奖励。
-
-除最终结算外，最早抵达决战场的10名玩家将从奖池中依次获得固定数量的奖金
+We try to restore the importance of battlegrounds from a geographic perspective, so in order to gain the initiative, players may need to make reasonable arrangements for these important cities to gain a greater advantage in sudden encounters.
 
 
 
-### 理事馆
+### Supply station
 
-玩家在群英会战中的所有战斗均会被记录到理事馆中，并支持查看战斗收益与战斗双方信息。
+After the expedition, players can buy speed items at the supply station in the main city to command the flag, and the command flag will randomly drop out of 5 speed items, including bronze horse, platinum sweat blood, silver fox sacrifice, white idol Yi, and dragon carved meteor. One, and each item has a difference in quality. Speed items will not only increase the player's travel speed, but also have additional attribute bonuses, corresponding to the 5 attributes of NFT cards.
 
-除当前正在进行的战役外，往期参战的记录也会记录在理事馆中。
-
-
-
-### **名人堂**
-
-名人堂将实时收录当前阵营中具有较大贡献的前几位玩家
-
-分别为战力榜、速度榜与军工榜，而战力榜在战役前三天不可见。
+Recycling merchants will use **MDAO** to recycle the items in the hands of players, and provide players with different offers according to a special rule, sometimes higher and sometimes lower. In some special times, recycling merchants also accept the recycling of other special items.
 
 
 
-### 赌坊
+### Random Events
 
-玩家即使不选择出征仍然可以在赌坊中下注，任何阵营都不受限制。
+{% hint style="info" %}
+Random events Players will encounter random events when they pass through the city during the normal advance. According to the events encountered, the generals in the march will be affected, including but not limited to the increase or decrease of attributes in a short period of time. Random events are not immune.
+{% endhint %}
 
-赌坊中会显示当前各个阵营的赔率与奖池大小，玩家可以使用**MDAO**下注到四个阵营中的其中一个。在第七日战斗结算后，奖金将自动发放至玩家的钱包中。
+### Ambush
+
+Players have the opportunity to trigger fixed events in the game, and go to a certain stronghold to ambush other forces. The ambushers can wait in place, while players from other forces will be attacked here unprepared, and the battle will last for a period of time. The winner is decided, during the battle, the players who arrive on the battlefield later can still be counted in the comparison of the combat power of the two sides.
+
+1. The ambush party has a certain amount of combat power bonus.
+2. Due to the existence of the marching route and marching speed, the timing of different players passing through the stronghold is not the same, and the ambush may not necessarily break out the battle.
+3. Both sides of the battle are injured to a certain extent after the battle, and the combat power value will be temporarily reduced by a part
+4. The side that loses the battle will lose a certain percentage of the army's rations
+5. After encountering an ambush, players can choose to pay a certain amount of food and grass to surrender and quickly pass through the area
+
+### Skirmish
+
+In the map, there are some cities adjacent to the decisive battlefield with a large amount of flow, and these cities are located in open areas without natural danger. Therefore, if the player who arrives here wants to snipe the enemy here, he needs to camp on the spot and start a fair positional battle with the opponent. At the same time, the winning side will gain the right to be stationed at the location, and will be able to choose to stay behind and snipe the next enemy. side forces.
+
+
+
+### Settlement revenue and judgment
+
+**Battle settlement**
+
+**Skirmishes and Ambush**
+
+* In skirmishes and ambush battles, the winner and loser both suffer a certain degree of short-term combat power penalty, and the loser's penalty is higher.
+* Each player on the defeated side may randomly drop an item, and the loot item will be randomly assigned to the winning player
+* The defeated side needs to pay a certain amount of food and grass, and the spoils of food and grass will be distributed in proportion to the strength of the victorious side
+* The defeated side will leave the stronghold immediately after the battle and move on
+* The victorious side can choose to stay in the stronghold after the battle is over
+* The victorious side can capture the opponent's map to complete the map
+* After the battle, the victorious party can know the battle strength of the opponent, while the defeated party cannot view it.
+
+**Decisive battle**
+
+In the decisive battle on the seventh day, the prize pool will be distributed to the corresponding faction according to the winning ranking of the faction's total combat power value according to the floating ratio. And in the camp, the rewards are divided according to the proportion of the personal expedition combat power value when reaching the end point.
+
+In addition to the final settlement, the first 10 players to reach the final stage will receive a fixed amount of prize money in sequence from the prize pool
+
+
+
+### Council Hall
+
+All the battles of players in the Battle of Heroes will be recorded in the Council Hall, and support for viewing the battle income and information on both sides of the battle.
+
+In addition to the current battle, the records of previous battles will also be recorded in the Council Hall.
+
+### Hall of Fame
+
+The Hall of Fame will include the top players in the current faction who have made great contributions in real time
+
+They are the Combat Power Ranking, Speed Ranking and Military Industry Ranking, and the Combat Power Ranking cannot be seen three days before the battle.
+
+
+
+**Casino**
+
+Players can still bet in the casino even if they do not choose to go out, and there are no restrictions on any faction.
+
+The current odds and prize pool size of each faction will be displayed in the casino, and players can use MDAO to bet on one of the four factions. After the battle is settled on the seventh day, the bonus will be automatically distributed to the player's wallet.

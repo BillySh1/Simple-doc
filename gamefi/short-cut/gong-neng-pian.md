@@ -1,62 +1,60 @@
-# 功能篇
+# Function articles
 
-### 战备商店
+### Combat readiness store
 
-#### 战备：粮草、衅鼓、并尊盟约、金镶灵玉
+#### War preparations: food and grass, quarrel drums, and respect the covenant, gold inlaid jade
 
-#### 神谕：纵横卷、系辞经、广雅笺、大禹谟
+#### Oracles: vertical and horizontal scrolls, copulative scriptures, Guang Yajian, Dayu Mo
 
-#### 奇珍：幸运石、天佑石、神眷石、两仪石、玉灵瓶
-
-
-
-### 背包
-
-玩家可在背包内查看自己的NFT卡牌相关资产与当前持有的所有道具，也可以通过背包快速上架交易市场。在背包中，分为武将、战备与道具三种索引方式，玩家可在战备背包中通过稀有度与品级的索引方式寻找想要查询的装备。在武将背包中，搜索功能可实现分类索引功能，帮助玩家查询同类型的武将。
+#### Treasures: Lucky Stone, God Blessing Stone, God's Favorite Stone, Liangyi Stone, Jade Spirit Bottle
 
 
 
-### 卡牌详情
+### Pack
 
-在卡牌详情中，玩家快速识别到卡牌的诸多属性，包括身份识别信息：武将名称、等级、星级、阵营、职业、稀有度、品级等。
+Players can view their own NFT card-related assets and all currently held items in the backpack, and can also quickly put on the market through the backpack. In the backpack, there are three indexing methods: generals, combat readiness and props. Players can search for the equipment they want to query through the index method of rarity and grade in the combat readiness bag. In the generals backpack, the search function can realize the function of classification and indexing, which helps players to search for generals of the same type.
 
-我们在卡牌详情中将NFT卡牌的详细信息分成了简介、攻略与属性三大类别，在简介中可快速浏览战力值等相关信息，也可以通过Token ID在链上查看您持有的NFT卡牌。而在攻略中我们展示了此卡牌所拥有的成长性、拥有的技能与潜力。在属性中我们将卡牌所拥有的耐力、力量、智力、敏捷与精神等六大属性进行可视化处理。
+### Card Details
 
-同时我们可以通过卡牌详情聚合页进入升级与装备的详情页进一步提高卡牌的战力水平。
+In the card details, players can quickly identify many attributes of the card, including identification information: military commander's name, level, star rating, faction, occupation, rarity, grade, etc.
 
+In the card details, we divided the detailed information of NFT cards into three categories: introduction, strategy and attributes. In the introduction, you can quickly browse the relevant information such as combat power value, and you can also view the information you hold on the chain through the Token ID. NFT cards. In the guide, we showed the growth, skills and potential of this card. In the attribute, we visualize the six attributes of the card, including endurance, strength, intelligence, agility and spirit.
 
-
-### 钱庄
-
-铜钱是富甲三国中流通的货币.
-
-您需要在钱庄中兑换一定数额的铜钱才能在招贤纳士和商店中正常交易&#x20;
-
-当兑换完铜钱后，会额外产生一些锁仓MDAO收益。在可在首页中每日领取。&#x20;
-
-目前汇率：1USDT = 25铜钱
+At the same time, we can further improve the combat power level of the card by entering the details page of upgrade and equipment through the card details aggregation page.
 
 
 
-### 卡牌交易市场
+### Bank
 
-#### 交易
+Copper coins are the currency in circulation in the Three Kingdoms of Fujia
 
-玩家可通过交易市场挂单出售或买入与其他玩家进行交易，交易代币仅可使用**MDAO**，我们将在交易中收取一定的手续费。玩家通过阵营索引功能去查询想要搜索的卡牌，我们鼓励玩家优先于获取同一阵营的**NFT**卡牌以便在游戏中获得更多优势。
+You need to exchange a certain amount of copper in the bank to trade properly in careers and stores
 
-#### 历史订单
+After the copper coins are exchanged, some additional lock-up MDAO income will be generated. Available daily in the homepage。&#x20;
 
-我们在卡牌市场中提供了历史订单查询功能，订单会记录您当前持有卡牌的状态，需要注意的是，您的**NFT**卡牌在挂单中将无法在游戏中使用，同时也将不再纳入您总战力计算公式内，当您取消挂单后才可继续使用此卡牌。
+Current exchange rate: 1USDT = 25 copper coins
 
-在订单中您可通过已购买或已售出功能查看您与其他玩家的交易详情，并在链上查看交易数据，确保交易过程公平有效且流程透明。
 
-### 公告
 
-我们将在公告中展示每次更新中的相关内容，并将活动与奖励发放情况在公告栏向玩家公示。除此以外公告栏还将推送群英会战与攻城掠地的即时信息，包括群英会战的战役信息等。
+### Cards Trading Market
 
-玩家可在历史公告中浏览我们的更新内容，或以此了解更多即时活动详情。
+#### Trade
 
-### 排行榜
+Players can sell or buy with other players through pending orders in the trading market. Only **MDAO** can be used for trading tokens. We will charge a certain handling fee in the transaction. Players use the faction index function to query the cards they want to search. We encourage players to give priority to acquiring **NFT** cards of the same faction in order to gain more advantages in the game.
 
-我们在游戏中向所有玩家展示当前游戏中最靠前的玩家或卡牌，包括个人战力值与单卡战力值以及持有卡牌数等数据。
+#### History Order
+
+We provide a historical order query function in the card market. The order will record the status of your current card holdings. It should be noted that your **NFT** card will not be available in the game in the pending order, and will no longer be used. It is included in the calculation formula of your total combat power, and you can continue to use this card only after you cancel the pending order.
+
+In the order, you can view the details of your transactions with other players through the purchased or sold function, and view the transaction data on the chain to ensure that the transaction process is fair, effective and transparent.
+
+### Announcement
+
+We will show the relevant content of each update in the announcement, and announce the distribution of activities and rewards to players on the announcement board. In addition, the bulletin board will also push the real-time information of the battle of the elite and the siege, including the battle information of the battle of the elite.
+
+Players can browse our updates in the Historical Announcements, or learn more about live event details.
+
+### Leaderboard
+
+In the game, we show all players the top players or cards in the current game, including data such as personal combat power value, single card combat power value, and the number of cards held.
 

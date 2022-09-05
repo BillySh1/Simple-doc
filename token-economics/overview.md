@@ -6,32 +6,32 @@ coverY: 256.5947242206235
 
 # 🍴 Memory Swap
 
-### 交易
+### Trading
 
 {% hint style="info" %}
-**MemorySwap** 上的代币交易是一种通过自动流动性池将一个 **ERC20** 代币换成另一个代币的简单方式。 交换（交易）任何加密代币，您将在每笔交易中获得 **MDAO** 奖励。
+Token trading on **MemorySwap** is an easy way to swap one ERC20 token for another via automated liquidity pools. Swap (trade) any crypto token and you will be rewarded with MDAO on every trade.
 {% endhint %}
 
-### 流动性
+### Liqudity
 
 {% hint style="info" %}
-**MemorySwap**允许您通过将代币添加到流动性池来提供流动性。 当您将代币添加到流动性池中时，您将收到流动性池 (**LP**) 代币。
+**MemorySwap** allows you to provide liquidity by adding tokens to liquidity pools. When you add tokens to a liquidity pool, you will receive liquidity pool (LP) tokens.
 
-&#x20;例如，如果您将 **MDAO** 和 **USDT** 存入流动资金池，您将收到 **MDAO-USDT LP** 代币。 您收到的 **LP** 代币数量代表您在 **MDAO-USDT** 流动资金池中的份额。&#x20;
+For example, if you deposit MDAO and USDT into the liquidity pool, you will receive MDAO-USDT LP tokens. The amount of LP tokens you receive represents your share in the MDAO-USDT liquidity pool.
 
-您还可以随时通过移除流动性来赎回您的资金。 提供流动性并非没有风险，因为您可能会面临无常损失。 这对流动性提供者来说并不全是坏事，因为您还将获得交易费用形式的奖励。
+You can also redeem your funds at any time by removing liquidity. Providing liquidity is not without risk, as you may face impermanent losses. It's not all bad for liquidity providers, as you'll also get rewards in the form of transaction fees.
 {% endhint %}
 
-### 跨链桥
+### Cross-Chain Bridge
 
 {% hint style="info" %}
-**MemorySwap**跨链桥**（Cross-Chain Bridge）**，是基于**TSS**门限签名技术，由分布式节点网络和跨链桥智能合约组成，创新实现的一种安全、去中心化的跨链解决方案。
+**MemorySwap Cross-Chain Bridge**, based on TSS threshold signature technology, is composed of distributed node network and cross-chain bridge smart contract. It is a secure and decentralized cross-chain solution implemented innovatively.
 {% endhint %}
 
-* 通过跨链桥节点网络以分布式地方式在目标区块上生成一个由一组节点管理的去中心化资产托管账户，实现对目标链上代币的分布式托管。
-* 通过在目标链上部署跨链桥智能合约，用户通过向托管账户发起代币充值，智能合约根据该托管账户的状态变更，实现在目标链上映射代币的生成，并为用户在目标链上的账户发放映射代币，从而完成对代币的跨链映射。
-* 用户可以在自己源链的账户中随时查询映射代币，转账和参与目标链上的各种**DeFi**应用。
-* 按照用户对其映射资产向目标区块链地址的提现请求，由智能合约触发节点网络完成对托管账户中相应资产的转账操作，同时销毁对应映射资产，并且更新用户在目标链上映射资产的状态。
+* Through the cross-chain bridge node network, a decentralized asset custody account managed by a group of nodes is generated on the target block in a distributed manner to realize the distributed custody of the tokens on the target chain.
+* By deploying a cross-chain bridge smart contract on the target chain, the user initiates a token recharge to the escrow account, and the smart contract realizes the generation of the mirrored tokens on the target chain according to the status change of the escrow account, and provides the user on the target chain. The account issued the mapping token to complete the cross-chain mapping of the token.
+* Users can query the mapped tokens, transfer and participate in various **DeFi** applications on the target chain at any time in their own source chain account.
+* According to the user's withdrawal request for their mapped assets to the target blockchain address, the smart contract triggers the node network to complete the transfer operation of the corresponding assets in the custody account, destroys the corresponding mapped assets, and updates the user's mapped assets on the target chain. .
 
 
 

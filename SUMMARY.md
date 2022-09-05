@@ -23,7 +23,6 @@
 * [🖼 NFT Create Platform](token-economics/economic-model/README.md)
 * [🕐 Timelock](token-economics/dev.committee/README.md)
 * [🛡 WhiteList](token-economics/distribution-scheme/README.md)
-* [💐 Lottery](memory-ping-tai-ying-yong-sheng-tai/jing-cai.md)
 * [🥇 IFO](token-economics/extra.md)
 * [🇬🇬 DAO & Staking](memory-ping-tai-ying-yong-sheng-tai/dao-and-staking.md)
 

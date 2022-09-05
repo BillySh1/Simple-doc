@@ -1,76 +1,76 @@
-# 战力强化篇
+# Combat Strength
 
-### 招贤纳士
+### Careers
 
-盲盒是富甲三国中获得**NFT**卡牌的主要途径，根据价格和可以开出高稀有度、高品质卡的概率，分出了三种盲盒：**校尉腰牌**、**鎏金虎符**、**传国玉玺**。
+Blind boxes are the main way to obtain NFT cards in Fujia Three Kingdoms. According to the price and the probability of opening high-rarity and high-quality cards, there are three types of blind boxes: school captain's waist card, gilt tiger charm, Chuanguo Imperial jade seal.
 
-在盲盒中随机开出不同品质的卡牌，卡牌共具有五种品质，每种品质的特性不尽相同。
+Cards of different qualities are randomly drawn in the blind box. The cards have five qualities in total, and the characteristics of each quality are different.
 
-#### 校尉腰牌的稀有度几率分别为：60%白，30%蓝，9.9%紫，0.09%橙，0.01%金
+**The rarity odds of the captain's waist cards are: 60% white, 30% blue, 9.9% purple, 0.09% orange, 0.01% gold**
 
-#### 鎏金虎符的稀有度几率分别为：10%白，50%蓝，35%紫，4%橙，1%金
+**The rarity odds of the Gilt Tiger Talisman are: 10% white, 50% blue, 35% purple, 4% orange, 1% gold**
 
-#### 传国玉玺的稀有度几率分别为：5%蓝，50%紫，40%橙，5%金
+**The rarity odds of Chuan Guo Yuxi are: 5% blue, 50% purple, 40% orange, 5% gold**
 
 
 
-### **升级与突破**
+### Upgrade and breakthrough
 
-#### 升级
+#### Upgrade
 
-通过升级是提高战力值的最快途经，每种品质需要的升级道具各不相同，由品质带来的升级增益会反馈到战力值中。此外根据稀有度规则，不同稀有度所需要消耗的升级材料数量不一，稀有度越高所需要的材料即越高。
+Upgrading is the fastest way to increase the combat power value. The upgrade items required for each quality are different, and the upgrade gain brought by the quality will be fed back to the combat power value. In addition, according to the rarity rules, the amount of upgrade materials required for different rarities varies. The higher the rarity, the higher the required materials.
 
-&#x20;玩家可在背包中查看自己的NFT卡牌并点击卡牌在卡牌详情中前往升级与突破。卡牌详情中可选一键升级，一键升级即为自动检测玩家持有的对应道具储备，并在当前星级范围内升到最高级，在卡牌的左下栏中可查看卡牌当前的等级，一颗宝石为一级，五颗宝石即为最高级，只有升到最高级后，玩家才可进行突破。
+Players can view their NFT cards in the backpack and click on the card to go to upgrade and breakthrough in the card details. One-click upgrade is optional in the card details. One-click upgrade is to automatically detect the corresponding item reserves held by the player, and upgrade to the highest level within the current star range. You can view the current status of the card in the lower left column of the card. Level, one gem is the first level, and five gems are the highest level. Only after reaching the highest level, the player can make a breakthrough.
 
 {% hint style="info" %}
-兵书道具目前可通过战备商店快速获得，与品质的对应关系如下：
+Weapons items can be quickly obtained through the combat readiness store, and the corresponding relationship with the quality is as follows:
 {% endhint %}
 
-* 《大禹谟》——仅可为SSR卡升级
-* 《系辞经》——仅可为SR卡升级
-* 《广雅笺》——仅可为R卡升级
-* 《纵横卷》——仅可为N卡升级
+* 《Da yu mo》——Upgradable only for SSR cards
+* 《XI ci jing》——Upgradable only for SR cards
+* 《Guang ya qian》——Only upgradeable for R card
+* 《Zong heng juan》——Only upgradeable for N cards
 
-**突破**
+**Breakthrough**
 
-当NFT卡牌升到最高级后，玩家可进行突破升星，前往战备商店购买玉灵瓶并进行突破。NFT可突破的次数随稀有度而有所限制，可查看星级词条了解更多细节。
-
-
-
-### **重生**
-
-重生武将时您需要两仪石作为重生的燃料
-
-金卡不能重生
-
-每张卡最多只能重生2次
-
-重生后属性不变，随机更换卡牌的角色与阵营。
+When the NFT card reaches the highest level, players can make breakthroughs, go to the combat readiness store to buy jade bottles and make breakthroughs. The number of times NFT can be broken through is limited by the rarity, you can check the star entry for more details.
 
 
 
-### 进阶
+### Rebirth
 
-进阶是将两张同阵营与同稀有度的卡牌进行合成，进阶需要消耗并尊盟约且进阶后两张卡牌均化为燃料合成出一张新卡牌，获得的卡牌会有明显的标识，并有着与同稀有度同品质卡牌不同的战力计算方式
+When regenerating a general, you need liangshi stone as fuel for rebirth
 
-1. 战力值将获得显著地提高
-2. 各类品级的宝石可提高您进阶出其品质级别的卡牌的几率
-3. 金镶灵玉是提高您进阶后属性的可选材料
-4. 卡牌的属性是决定战力的最关键要素，卡牌的潜力可通过属性的强度来判断
+Gold cards cannot be reborn
 
-### **称号和徽章**
+Each card can only be reborn up to 2 times
+
+After rebirth, the attributes remain unchanged, and the character and faction of the card are randomly changed.
+
+
+
+### Advanced
+
+To advance is to combine two cards of the same faction and the same rarity. To advance, you need to consume and honor the covenant. After the advance, both cards are converted into fuel to synthesize a new card. The obtained card will be It has obvious logos and has a different calculation method of combat power from cards of the same rarity and quality
+
+1. The combat power value will be significantly increased
+2. Various tiers of gems increase your odds of progressing cards from their tiers
+3. Gold inlaid jade is an optional material to improve your advanced attributes
+4. The attribute of the card is the most critical factor in determining the combat power. The potential of the card can be judged by the strength of the attribute.
+
+### Titles and Badges
 
 {% hint style="success" %}
-我们的成就系统中包含了称号和徽章两个部分，玩家可通过轻触首页的头像或称号进入查看我的成就，在数据聚合页玩家可以总览自己的生涯历史与主题游戏中的群英会战、攻城掠地和排位赛的相关成就。也可在称号与徽章中更改和查看当前所解锁的成就，称号与徽章无法转让无法交易。
+Our achievement system includes two parts: title and badge. Players can view my achievements by tapping the avatar or title on the homepage. On the data aggregation page, players can have an overview of their career history and the battles and attacks in the themed games. Landgrab and Ranked related achievements. You can also change and view the currently unlocked achievements in Titles and Badges. Titles and badges cannot be transferred or traded.
 {% endhint %}
 
-#### **称号**
+#### Titles
 
-而在称号系统中，玩家仅可佩戴一种称号，即仅可享受一种称号带来的加成效果，称号根据获取难度有不同的强度增幅，佩戴稀有的称号将会成为高级玩家的一种身份识别。
+In the title system, players can only wear one title, that is, they can only enjoy the bonus effect brought by one title. The title has different strength increases according to the difficulty of obtaining. Wearing a rare title will become a kind of advanced player. Identification.
 
-#### 徽章
+#### Badges
 
-我们当前开放的徽章功能可以通过达成条件自动解锁，并累计加成到您的总数据中，如达成阵营全收集时可解锁对应的四圣徽章，可在徽章详情中查看具体的属性增幅与解锁时间。
+Our currently open badge function can be automatically unlocked by fulfilling the conditions, and the cumulative bonus will be added to your total data. If you reach the full collection of the faction, you can unlock the corresponding four holy badges. You can check the specific attribute enhancement and unlocking in the badge details. time.
 
 &#x20;****&#x20;
 
