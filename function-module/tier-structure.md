@@ -24,18 +24,18 @@ The Development Committee is mainly responsible for promoting the development of
 
 #### Total Release：2,000,000,00
 
-#### Financing funds will be reserved for: liquidity pool protection pool lottery pool&#x20;
+#### Financing funds will be reserved for: liquidity pool protection pool gamefi pool&#x20;
 
 ####
 
 ### Unique Against Mechanism
 
 *   **Buy：**\
-    ****40% lottery pool
+    ****40% gamefi pool
 
     60% guard pool
 *   **Sell：**\
-    30% lottery pool
+    30% gamefi pool
 
     70% guard pool
 * Burn 15% of payment tokens when selling
