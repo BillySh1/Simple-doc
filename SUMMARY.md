@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📈 Token Economy](README.md)
-* [🌏 Overview](<README (1).md>)
+* [🌏 Overview](README.md)
+* [📈 Token Economy](<README (1).md>)
 * [🔜 Memory Road Map](route-map.md)
 
 ## Functional Module
