@@ -6,10 +6,10 @@ coverY: 0
 
 # 🎮 GAMEFI
 
-> #### **Memory Labs**建立了一个独特的基础设施，该基础设施建立在不断发展的**DeFi** 生态系统上，并通过独特的 **NFT**将其与游戏相结合。
+> **Memory Labs** has built a unique infrastructure that builds on the growing DeFi ecosystem and combines it with gaming through a unique NFT.
 
-使用流动性池、Yield Farming 和 NFT，GameFi 基础设施不仅会为用户找到最佳收益策略，还会生成可在众多游戏中使用的独特 NFT 。
+Using liquidity pools, **Yield** Farming, and NFTs, the **GameFi** infrastructure will not only find the best yield strategy for users, but also generate unique **NFTs** that can be used in numerous games.
 
-这为 Memory用户提供了一种独特的能力，可以免费玩游戏并在一个单一的过程中赚钱。
+This gives Memory users a unique ability to play games for free and earn money in a single process.
 
-**想象一下，在一系列游戏中，您实际上并没有用辛苦赚来的钱购买游戏内资源或英雄，而是一个储蓄账户，您节省的越多，获得的资源就越多，可以召唤的英雄也就越多。**
+**Imagine a series of games where you don't actually use your hard earned money to buy in-game resources or heroes, but a savings account, the more you save, the more resources, heroes you can summon Also the more.**

@@ -2,49 +2,49 @@
 layout: landing
 ---
 
-# 富甲三国
+# RICH: The Three Kingdoms
 
 {% hint style="info" %}
-**富甲三国介绍**
+**Introduction**
 {% endhint %}
 
-创造灵感来自于中国的四大名著-三国演义， 富甲三国作为**MDAO**的**NFT**生态重要组成部分，玩家围绕卡牌策略和随机探索的方式展开，通过抢夺城池，玩家间的对战，升级武器装备，来获取更大的**MDAO**收益，用户可以借助**MDAO**令牌抽取盲盒，获取游戏内的人物，坐骑，兵器等，开启属于你的**play-to-earn**时代。
+The inspiration comes from China's four famous novels - Romance of the Three Kingdoms. As an important part of MDAO's **NFT** ecology, Fujia Three Kingdoms focuses on card strategy and random exploration. In order to obtain greater MDAO revenue, users can use MDAO tokens to extract blind boxes, obtain characters, mounts, weapons, etc. in the game, and start your own play-to-earn era.
 
 {% hint style="info" %}
-**游戏设置**
+**Game Setting**
 {% endhint %}
 
-在富甲三国中我们选择了默认横屏的方式体验游戏，若您的设备未能正常保持横屏状态，您可在首页的右上角轻触控件打开全屏功能。同时您还可在设置中控制您当前的语言环境与游戏音频。同时也可在右上角查看我们发布的官方公告，并以此了解游戏的最新动态。
+In Fujia Three Kingdoms, we choose the default landscape mode to experience the game. If your device fails to maintain the landscape state normally, you can tap the touch button in the upper right corner of the home page to turn on the full screen function. You can also control your current locale and game audio in settings. You can also check our official announcements in the upper right corner to keep up with the latest developments in the game.
 
 {% hint style="info" %}
-**个人财产**
+**Personal property**
 {% endhint %}
 
-在首页中，我们在展示上方标签展示了您当前拥有的财产状况，分别为您持有的代币、铜钱余额、卡牌数量、粮草数量、衅鼓数量等**。**
+On the home page, we display the status of your current property on the tab above the display, including the tokens you hold, the balance of copper coins, the number of cards, the number of grain and grass, the number of quarrels, etc.
 
 {% hint style="info" %}
-**导航栏**
+**Navigator**
 {% endhint %}
 
-在首页的底部导航栏中，我们共分为了背包、交易市场、兑换钱庄、战备商店以及重生和进阶等六个功能区。与此同时，在右下角的招贤纳士中您即可前往抽卡，获取您在游戏中的重要依仗——武将**NFT**卡牌。 在游戏中您随时可轻触左下按钮回到首页或前往**Swap**。
+In the bottom navigation bar of the home page, we are divided into six functional areas: backpack, trading market, exchange bank, combat readiness store, and rebirth and advanced. At the same time, in the recruitment in the lower right corner, you can go to draw cards to get your important support in the game - generals NFT cards. During the game, you can tap the lower left button to go back to the home page or go to Swap at any time.
 
 {% hint style="info" %}
-#### **福利系统**
+#### Welfare system
 {% endhint %}
 
-我们在游戏中为玩家准备了多个福利可供领取，分别是邀请收益、空投礼盒与钱庄锁仓收益。您可通过首页的控件前往查看获取规则并在达成条件后获取我们为您准备的福利。
+We have prepared a number of benefits for players to claim in the game, namely invitation benefits, airdrop gift boxes and bank lock-up benefits. You can view the acquisition rules through the controls on the homepage and get the benefits we have prepared for you after meeting the conditions。
 
 {% hint style="info" %}
-**成就系统**
+**Achievement system**
 {% endhint %}
 
-您可在首页的左上角链接和更换您当前的钱包，或在右侧排行榜中查看您在当前玩家中的排序，也可查看您当前佩戴的称号和徽章与总战力值，我们会在后续的版本中解锁头像和个人资料等个性化服务，并上线展柜以便为您在游戏中拥有更多曝光。我们希望不断优化成就系统，以达到准确记录并展示您在游戏中的付出与荣誉的目的。
+You can link and replace your current wallet in the upper left corner of the homepage, or view your ranking among current players in the leaderboard on the right, or view your current titles, badges and total combat power. In subsequent versions, personalized services such as avatars and profiles will be unlocked, and showcases will be launched to give you more exposure in the game. We hope to continuously optimize the achievement system to accurately record and display your efforts and honors in the game.
 
 {% hint style="info" %}
-#### **主题游戏**
+#### Themed games
 {% endhint %}
 
-富甲三国的游戏内容分为群英会战、攻城掠地与排位赛三个区块，您可通过首页中的入口进入游戏，当前我们在群英会战中开放了**PVP**团体战，您需要使用一定的策略才可取胜。而在攻城掠地中，您可通过**PVE**来获取稳定收益，达成一定条件可额外获得奖励。我们会在后续的版本中更新以个人排位赛为主的相关内容，并解锁武将卡牌中的装备栏与技能栏。（点击关键词跳转相关词条）
+The game content of Fujia Three Kingdoms is divided into three parts: Battle of Heroes, Siege and Ranking. You can enter the game through the entrance on the home page. Currently, we have opened PVP team battles in Battle of Heroes. You need to use certain strategy to win. In the siege, you can obtain stable income through **PVE**, and you can get additional rewards when certain conditions are met. We will update related content mainly based on personal qualifying in subsequent versions, and unlock the equipment bar and skill bar in the general's card. (Click on the keyword to jump to the related entry)
 
 
 

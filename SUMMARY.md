@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🌏 Overview](README.md)
+* [📈 Token Economy](README.md)
+* [🌏 Overview](<README (1).md>)
 * [🔜 Memory Road Map](route-map.md)
 
 ## Functional Module
@@ -13,9 +14,9 @@
 
 ## Token Economy
 
-* [🌐 Introduction](function-module/tier-structure.md)
-* [💰 Mining ](function-module/transaction-module.md)
-* [🤝 Governance](function-module/diversified-application.md)
+* [🌐 Introduction](token-economy-1/tier-structure.md)
+* [💰 Mining ](token-economy-1/transaction-module.md)
+* [🤝 Governance](token-economy-1/diversified-application.md)
 
 ## Ecology
 
