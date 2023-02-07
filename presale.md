@@ -2,6 +2,6 @@
 description: Pre-sale Tutorial
 ---
 
-# Presale
+# 🆙 Presale
 
 ![](.gitbook/assets/image.png)
