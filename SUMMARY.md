@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🌏 Overview](README.md)
+* [Presale](presale.md)
 * [📈 Token Economy](<README (1).md>)
 * [🔜 Memory Road Map](route-map.md)
 
