@@ -20,27 +20,8 @@ On the other hand, all transaction fees for **Memory Swap** will be regularly us
 
 The Development Committee is mainly responsible for promoting the development of the project and building the community. In the early stages, it will be comprised of **Memory Labs**, community contributors, and delegates with a majority vote. The latter stage is entirely elected by the community.
 
-### Distribution Mechanism (For details, please check the official website)
+### Purpose:
 
-#### Total Release：2,000,000,00
-
-#### Financing funds will be reserved for: liquidity pool protection pool gamefi pool&#x20;
-
-####
-
-### Unique Against Mechanism
-
-*   **Buy：**\
-    ****40% gamefi pool
-
-    60% guard pool
-*   **Sell：**\
-    30% gamefi pool
-
-    70% guard pool
-* Burn 15% of payment tokens when selling
-*   **Buy with automatic support：**
-
-    When the token price is lower than 20% of the initial liquidity price, it will be automatically purchased in batches, and half of the stored value in the reserve pool will be purchased each time. Keep.
+MemoryDao (MDAO) is the only ecological token in the whole memory ecosystem. MDAO is zero transaction tax point, and can be used in MemorySwap, CryptoRich3, MemoryWallet, etc. It is indispensable in the memory ecosystem.
 
 ****
